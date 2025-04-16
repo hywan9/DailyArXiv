@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 15, 2025
+title: Latest 15 Papers - April 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ke1ewang/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,19 +7,19 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ProtoECGNet: Case-Based Interpretable Deep Learning for Multi-Label ECG Classification with Contrastive Learning](http://arxiv.org/abs/2504.08713v1)** | 2025-04-11 |  |
-| **[Deep Joint Distribution Optimal Transport for Universal Domain Adaptation on Time Series](http://arxiv.org/abs/2503.11217v2)** | 2025-04-11 |  |
-| **[Real-Time Decision-Making for Digital Twin in Additive Manufacturing with Model Predictive Control using Time-Series Deep Neural Networks](http://arxiv.org/abs/2501.07601v5)** | 2025-04-11 |  |
-| **[Beyond the Time Domain: Recent Advances on Frequency Transforms in Time Series Analysis](http://arxiv.org/abs/2504.07099v2)** | 2025-04-11 | 9 pages |
-| **[RelCon: Relative Contrastive Learning for a Motion Foundation Model for Wearable Data](http://arxiv.org/abs/2411.18822v5)** | 2025-04-10 | <details><summary>Accep...</summary><p>Accepted to ICLR 2025. Code here: https://github.com/maxxu05/relcon</p></details> |
-| **[Autocorrelation functions for point-process time series](http://arxiv.org/abs/2504.08070v1)** | 2025-04-10 |  |
-| **[Semantically Encoding Activity Labels for Context-Aware Human Activity Recognition](http://arxiv.org/abs/2504.07916v1)** | 2025-04-10 | Percom 2025 |
-| **[ms-Mamba: Multi-scale Mamba for Time-Series Forecasting](http://arxiv.org/abs/2504.07654v1)** | 2025-04-10 |  |
-| **[Diffusion Transformers for Tabular Data Time Series Generation](http://arxiv.org/abs/2504.07566v1)** | 2025-04-10 | <details><summary>26 pa...</summary><p>26 pages, 19 figures, 13 tables</p></details> |
-| **[Event Signal Filtering via Probability Flux Estimation](http://arxiv.org/abs/2504.07503v1)** | 2025-04-10 |  |
-| **[Estimation of High-Dimensional Markov-Switching VAR Models with an Approximate EM Algorithm](http://arxiv.org/abs/2210.07456v2)** | 2025-04-10 |  |
-| **[AMAD: AutoMasked Attention for Unsupervised Multivariate Time Series Anomaly Detection](http://arxiv.org/abs/2504.06643v2)** | 2025-04-10 | fix img issues |
-| **[ClimateBench-M: A Multi-Modal Climate Data Benchmark with a Simple Generative Method](http://arxiv.org/abs/2504.07394v1)** | 2025-04-10 | Preprint, 29 pages |
-| **[Enhancing Time Series Forecasting via Multi-Level Text Alignment with LLMs](http://arxiv.org/abs/2504.07360v1)** | 2025-04-10 |  |
-| **[A GARMA Framework for Unit-Bounded Time Series Based on the Unit-Lindley Distribution with Application to Renewable Energy Data](http://arxiv.org/abs/2504.07351v1)** | 2025-04-10 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2502.18645</p></details> |
+| **[Forecasting from Clinical Textual Time Series: Adaptations of the Encoder and Decoder Language Model Families](http://arxiv.org/abs/2504.10340v1)** | 2025-04-14 | <details><summary>Machi...</summary><p>Machine Learning for Healthcare (MLHC 2025)</p></details> |
+| **[Spectral estimation for high-dimensional linear processes](http://arxiv.org/abs/2504.10257v1)** | 2025-04-14 |  |
+| **[Learning Neural Differential Algebraic Equations via Operator Splitting](http://arxiv.org/abs/2403.12938v2)** | 2025-04-14 | <details><summary>Updat...</summary><p>Updated version of the article now includes problem statement</p></details> |
+| **[Can Competition Enhance the Proficiency of Agents Powered by Large Language Models in the Realm of News-driven Time Series Forecasting?](http://arxiv.org/abs/2504.10210v1)** | 2025-04-14 |  |
+| **[Impact of rainfall risk on rice production: realized volatility in mean model](http://arxiv.org/abs/2504.10121v1)** | 2025-04-14 | Preprint. 14 pages |
+| **[Learning-based Observer for Coupled Disturbance](http://arxiv.org/abs/2407.13229v2)** | 2025-04-14 | 17 pages, 9 figures |
+| **[Physical Scales Matter: The Role of Receptive Fields and Advection in Satellite-Based Thunderstorm Nowcasting with Convolutional Neural Networks](http://arxiv.org/abs/2504.09994v1)** | 2025-04-14 | <details><summary>11 pa...</summary><p>11 pages, 10 figures, 1 table. This work has been submitted to Artificial Intelligence for the Earth Systems (AIES). Copyright in this work may be transferred without further notice</p></details> |
+| **[AimTS: Augmented Series and Image Contrastive Learning for Time Series Classification](http://arxiv.org/abs/2504.09993v1)** | 2025-04-14 |  |
+| **[InfoMAE: Pair-Efficient Cross-Modal Alignment for Multimodal Time-Series Sensing Signals](http://arxiv.org/abs/2504.09707v1)** | 2025-04-13 |  |
+| **[Adapting to the Unknown: Robust Meta-Learning for Zero-Shot Financial Time Series Forecasting](http://arxiv.org/abs/2504.09664v1)** | 2025-04-13 |  |
+| **[Ordinary Least Squares as an Attention Mechanism](http://arxiv.org/abs/2504.09663v1)** | 2025-04-13 |  |
+| **[Replacing ARDL? Introducing the NSB-ARDL Model for Structural and Asymmetric Forecasting](http://arxiv.org/abs/2504.09646v1)** | 2025-04-13 | draft |
+| **[Frequency-Aware Attention-LSTM for PM$_{2.5}$ Time Series Forecasting](http://arxiv.org/abs/2503.24043v2)** | 2025-04-13 |  |
+| **[MADLLM: Multivariate Anomaly Detection via Pre-trained LLMs](http://arxiv.org/abs/2504.09504v1)** | 2025-04-13 | <details><summary>Accep...</summary><p>Accepted by IEEE International Conference on Multimedia & Expo 2025 (ICME 2025)</p></details> |
+| **[Time series classification with random convolution kernels: pooling operators and input representations matter](http://arxiv.org/abs/2409.01115v3)** | 2025-04-13 | <details><summary>v1: i...</summary><p>v1: initial version, incorrect evaluation. v2: Method improved, evaluation corrected, title simplified. v3: Add acknowledgments</p></details> |
 
