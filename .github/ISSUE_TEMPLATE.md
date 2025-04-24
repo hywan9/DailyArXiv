@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 23, 2025
+title: Latest 15 Papers - April 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ke1ewang/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,19 +7,12 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Causal-Copilot: An Autonomous Causal Analysis Agent](http://arxiv.org/abs/2504.13263v2)** | 2025-04-21 |  |
-| **[M$^2$AD: Multi-Sensor Multi-System Anomaly Detection through Global Scoring and Calibrated Thresholding](http://arxiv.org/abs/2504.15225v1)** | 2025-04-21 | <details><summary>Accep...</summary><p>Accepted at AISTATS 2025</p></details> |
-| **[A Deep Learning Framework for Sequence Mining with Bidirectional LSTM and Multi-Scale Attention](http://arxiv.org/abs/2504.15223v1)** | 2025-04-21 |  |
-| **[Learning Compositional Transferability of Time Series for Source-Free Domain Adaptation](http://arxiv.org/abs/2504.14994v1)** | 2025-04-21 | <details><summary>Corre...</summary><p>Corresponding author: Su Yang</p></details> |
-| **[Multiple-Resolution Tokenization for Time Series Forecasting with an Application to Pricing](http://arxiv.org/abs/2407.03185v2)** | 2025-04-21 |  |
-| **[Structuring Multiple Simple Cycle Reservoirs with Particle Swarm Optimization](http://arxiv.org/abs/2504.05347v2)** | 2025-04-21 |  |
-| **[Forecasting from Clinical Textual Time Series: Adaptations of the Encoder and Decoder Language Model Families](http://arxiv.org/abs/2504.10340v2)** | 2025-04-20 | <details><summary>Machi...</summary><p>Machine Learning for Healthcare (MLHC 2025)</p></details> |
-| **[Evaluating Temporal Plasticity in Foundation Time Series Models for Incremental Fine-tuning](http://arxiv.org/abs/2504.14677v1)** | 2025-04-20 | <details><summary>Accep...</summary><p>Accepted at IJCNN 2025</p></details> |
-| **[Multiple change point detection based on Hodrick-Prescott and $l_1$ filtering method for random walk time series data](http://arxiv.org/abs/2501.11805v3)** | 2025-04-19 | <details><summary>Need ...</summary><p>Need to major review the research proof section</p></details> |
-| **[Pets: General Pattern Assisted Architecture For Time Series Analysis](http://arxiv.org/abs/2504.14209v1)** | 2025-04-19 |  |
-| **[Decomposition-based multi-scale transformer framework for time series anomaly detection](http://arxiv.org/abs/2504.14206v1)** | 2025-04-19 |  |
-| **[DConAD: A Differencing-based Contrastive Representation Learning Framework for Time Series Anomaly Detection](http://arxiv.org/abs/2504.14204v1)** | 2025-04-19 |  |
-| **[Large Language Model Enhanced Particle Swarm Optimization for Hyperparameter Tuning for Deep Learning Models](http://arxiv.org/abs/2504.14126v1)** | 2025-04-19 |  |
-| **[MMformer with Adaptive Transferable Attention: Advancing Multivariate Time Series Forecasting for Environmental Applications](http://arxiv.org/abs/2504.14050v1)** | 2025-04-18 |  |
-| **[Simple Macroeconomic Forecast Distributions for the G7 Economies](http://arxiv.org/abs/2408.08304v3)** | 2025-04-18 |  |
+| **[Transition of $α$-mixing in Random Iterations with Applications in Queuing Theory](http://arxiv.org/abs/2410.05056v3)** | 2025-04-22 | 39 pages, 1 figure |
+| **[Adaptive Student's t-distribution with method of moments moving estimator for nonstationary time series](http://arxiv.org/abs/2304.03069v4)** | 2025-04-22 | 7 pages, 10 figures |
+| **[Multiscale detection of practically significant changes in a gradually varying time series](http://arxiv.org/abs/2504.15872v1)** | 2025-04-22 |  |
+| **[Adaptive PCA-Based Outlier Detection for Multi-Feature Time Series in Space Missions](http://arxiv.org/abs/2504.15846v1)** | 2025-04-22 | <details><summary>Accep...</summary><p>Accepted to ICCS 2025</p></details> |
+| **[A Time Series Analysis of Malware Uploads to Programming Language Ecosystems](http://arxiv.org/abs/2504.15695v1)** | 2025-04-22 | <details><summary>Submi...</summary><p>Submitted to TrustBus@ARES</p></details> |
+| **[Transfer Learning for High-dimensional Reduced Rank Time Series Models](http://arxiv.org/abs/2504.15691v1)** | 2025-04-22 | <details><summary>29 pa...</summary><p>29 pages accepted by AISTATS2025</p></details> |
+| **[On testing for independence between generalized error models of several time series](http://arxiv.org/abs/2410.24003v2)** | 2025-04-22 |  |
+| **[Joint leave-group-out cross-validation in Bayesian spatial models](http://arxiv.org/abs/2504.15586v1)** | 2025-04-22 |  |
 
