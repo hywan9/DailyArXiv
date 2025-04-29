@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 28, 2025
+title: Latest 15 Papers - April 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ke1ewang/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,19 +7,19 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Picture is Worth A Thousand Numbers: Enabling LLMs Reason about Time Series via Visualization](http://arxiv.org/abs/2411.06018v2)** | 2025-04-25 |  |
+| **[Predicting Coastal Water Levels in the Context of Climate Change Using Kolmogorov-Zurbenko Time Series Analysis Methods](http://arxiv.org/abs/2412.09419v2)** | 2025-04-25 | <details><summary>23 pa...</summary><p>23 pages, 7 figures, this article draws from arXiv:2007.03031v3 and arXiv:2412.07735v1; updated references</p></details> |
+| **[AMAD: AutoMasked Attention for Unsupervised Multivariate Time Series Anomaly Detection](http://arxiv.org/abs/2504.06643v3)** | 2025-04-25 | <details><summary>fix s...</summary><p>fix some grammar issues</p></details> |
+| **[PHEATPRUNER: Interpretable Data-centric Feature Selection for Multivariate Time Series Classification through Persistent Homology](http://arxiv.org/abs/2504.18329v1)** | 2025-04-25 | Preprint |
+| **[A Machine Learning Approach For Bitcoin Forecasting](http://arxiv.org/abs/2504.18206v1)** | 2025-04-25 | 15 pages |
+| **[An Open-Source and Reproducible Implementation of LSTM and GRU Networks for Time Series Forecasting](http://arxiv.org/abs/2504.18185v1)** | 2025-04-25 | 12 pages |
+| **[Recent advances in data-driven methods for degradation modelling across applications](http://arxiv.org/abs/2504.18164v1)** | 2025-04-25 |  |
+| **[Pets: General Pattern Assisted Architecture For Time Series Analysis](http://arxiv.org/abs/2504.14209v2)** | 2025-04-25 |  |
+| **[Knowledge-Augmented Multimodal Clinical Rationale Generation for Disease Diagnosis with Small Language Models](http://arxiv.org/abs/2411.07611v2)** | 2025-04-25 | 13 pages. 7 figures |
+| **[CANet: ChronoAdaptive Network for Enhanced Long-Term Time Series Forecasting under Non-Stationarity](http://arxiv.org/abs/2504.17913v1)** | 2025-04-24 |  |
+| **[STNet: Prediction of Underwater Sound Speed Profiles with An Advanced Semi-Transformer Neural Network](http://arxiv.org/abs/2504.17912v1)** | 2025-04-24 |  |
+| **[Bernstein Polynomial Processes for Continuous Time Change Detection](http://arxiv.org/abs/2504.17876v1)** | 2025-04-24 |  |
 | **[Early Detection of Multidrug Resistance Using Multivariate Time Series Analysis and Interpretable Patient-Similarity Representations](http://arxiv.org/abs/2504.17717v1)** | 2025-04-24 |  |
 | **[On Multivariate Financial Time Series Classification](http://arxiv.org/abs/2504.17664v1)** | 2025-04-24 |  |
 | **[Decentralized Time Series Classification with ROCKET Features](http://arxiv.org/abs/2504.17617v1)** | 2025-04-24 | <details><summary>Submi...</summary><p>Submitted to Workshop on Federated Learning Advancements 2025, in conjunction with ECML-PKDD, WAFL25</p></details> |
-| **[TarDiff: Target-Oriented Diffusion Guidance for Synthetic Electronic Health Record Time Series Generation](http://arxiv.org/abs/2504.17613v1)** | 2025-04-24 |  |
-| **[Quantum Autoencoder for Multivariate Time Series Anomaly Detection](http://arxiv.org/abs/2504.17548v1)** | 2025-04-24 | <details><summary>Submi...</summary><p>Submitted to IEEE International Conference on Quantum Computing and Engineering (QCE) 2025</p></details> |
-| **[Tailored minimal reservoir computing: on the bidirectional connection between nonlinearities in the reservoir and in data](http://arxiv.org/abs/2504.17503v1)** | 2025-04-24 | 13 pages, 11 figures |
-| **[Goal-Oriented Time-Series Forecasting: Foundation Framework Design](http://arxiv.org/abs/2504.17493v1)** | 2025-04-24 |  |
-| **[Evaluating Time Series Models for Urban Wastewater Management: Predictive Performance, Model Complexity and Resilience](http://arxiv.org/abs/2504.17461v1)** | 2025-04-24 | <details><summary>6 pag...</summary><p>6 pages, 6 figures, accepted at 10th International Conference on Smart and Sustainable Technologies (SpliTech) 2025, GitHub: https://github.com/calgo-lab/resilient-timeseries-evaluation</p></details> |
-| **[Transfer Learning with Foundational Models for Time Series Forecasting using Low-Rank Adaptations](http://arxiv.org/abs/2410.11539v2)** | 2025-04-24 |  |
-| **[LSEAttention is All You Need for Time Series Forecasting](http://arxiv.org/abs/2410.23749v7)** | 2025-04-24 | <details><summary>8 pag...</summary><p>8 pages with referencing, 1 figure, 5 tables</p></details> |
-| **[Dargana: fine-tuning EarthPT for dynamic tree canopy mapping from space](http://arxiv.org/abs/2504.17321v1)** | 2025-04-24 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, spotlight at `Tackling Climate Change with Machine Learning', ICLR 2025</p></details> |
-| **[Multi-Modal Traffic Analysis: Integrating Time-Series Forecasting, Accident Prediction, and Image Classification](http://arxiv.org/abs/2504.17232v1)** | 2025-04-24 | 5 pages,10 figures |
-| **[A general approach to modeling environmental mixtures with multivariate outcomes](http://arxiv.org/abs/2504.17195v1)** | 2025-04-24 |  |
-| **[A Novel Hybrid Approach Using an Attention-Based Transformer + GRU Model for Predicting Cryptocurrency Prices](http://arxiv.org/abs/2504.17079v1)** | 2025-04-23 |  |
-| **[Molecular Communication Channel as a Physical Reservoir Computer](http://arxiv.org/abs/2504.17022v1)** | 2025-04-23 |  |
 
