@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 30, 2025
+title: Latest 15 Papers - May 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ke1ewang/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,19 +7,19 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[An LLM-Powered Agent for Physiological Data Analysis: A Case Study on PPG-based Heart Rate Estimation](http://arxiv.org/abs/2502.12836v2)** | 2025-04-29 |  |
+| **[Deep Learning Characterizes Depression and Suicidal Ideation from Eye Movements](http://arxiv.org/abs/2504.20944v1)** | 2025-04-29 | <details><summary>Prepr...</summary><p>Preprint. 12 pages, 5 figures</p></details> |
+| **[Hybrid Quantum Recurrent Neural Network For Remaining Useful Life Prediction](http://arxiv.org/abs/2504.20823v1)** | 2025-04-29 | 11 pages |
+| **[Predictive maintenance solution for industrial systems -- an unsupervised approach based on log periodic power law](http://arxiv.org/abs/2408.05231v3)** | 2025-04-29 | <details><summary>14 pa...</summary><p>14 pages, 4 figures, 1 table</p></details> |
+| **[Experimental Study on Time Series Analysis of Lower Limb Rehabilitation Exercise Data Driven by Novel Model Architecture and Large Models](http://arxiv.org/abs/2504.03799v2)** | 2025-04-29 |  |
+| **[Anomaly Detection in Time Series of EDFA Pump Currents to Monitor Degeneration Processes using Fuzzy Clustering](http://arxiv.org/abs/2408.15268v3)** | 2025-04-29 | 6 pages, 6 figures |
+| **[Seamless Monitoring of Stress Levels Leveraging a Universal Model for Time Sequences](http://arxiv.org/abs/2407.03821v2)** | 2025-04-29 | 38 pages, 10 figures |
+| **[FT-MoE: Sustainable-learning Mixture of Experts Model for Fault-Tolerant Computing with Multiple Tasks](http://arxiv.org/abs/2504.20446v1)** | 2025-04-29 |  |
+| **[Multidimensional precipitation index prediction based on CNN-LSTM hybrid framework](http://arxiv.org/abs/2504.20442v1)** | 2025-04-29 |  |
+| **[Dynamic linear regression models for forecasting time series with semi long memory errors](http://arxiv.org/abs/2408.09096v2)** | 2025-04-29 |  |
+| **[A Self-organizing Interval Type-2 Fuzzy Neural Network for Multi-Step Time Series Prediction](http://arxiv.org/abs/2407.08010v2)** | 2025-04-28 |  |
+| **[Time2Lang: Bridging Time-Series Foundation Models and Large Language Models for Health Sensing Beyond Prompting](http://arxiv.org/abs/2502.07608v3)** | 2025-04-28 | <details><summary>Accep...</summary><p>Accepted to CHIL 2025. Code and models: https://github.com/arvind1609/time2lang</p></details> |
+| **[Causal Identification in Time Series Models](http://arxiv.org/abs/2504.20172v1)** | 2025-04-28 |  |
+| **[A Physically Driven Long Short Term Memory Model for Estimating Snow Water Equivalent over the Continental United States](http://arxiv.org/abs/2504.20129v1)** | 2025-04-28 | <details><summary>Prepr...</summary><p>Preprint of journal paper in preparation. Details: 24 pages, 8 figures</p></details> |
 | **[Monitoring digestate application on agricultural crops using Sentinel-2 Satellite imagery](http://arxiv.org/abs/2504.19996v1)** | 2025-04-28 |  |
-| **[Mapping of Weed Management Methods in Orchards using Sentinel-2 and PlanetScope Data](http://arxiv.org/abs/2504.19991v1)** | 2025-04-28 |  |
-| **[Interpretable additive model for analyzing high-dimensional functional time series](http://arxiv.org/abs/2504.19904v1)** | 2025-04-28 |  |
-| **[Functional Sieve Bootstrap for the Partial Sum Process with Application to Change-Point Detection](http://arxiv.org/abs/2408.05071v4)** | 2025-04-28 |  |
-| **[Multimodal Conditioned Diffusive Time Series Forecasting](http://arxiv.org/abs/2504.19669v1)** | 2025-04-28 |  |
-| **[Near-real-time flood inundation monitoring by Bayesian analysis for change point problems for Sentinel-1 time series](http://arxiv.org/abs/2504.19526v1)** | 2025-04-28 |  |
-| **[EuroCropsML: A Time Series Benchmark Dataset For Few-Shot Crop Type Classification](http://arxiv.org/abs/2407.17458v2)** | 2025-04-28 | 12 pages, 8 figures |
-| **[Knowledge-Augmented Multimodal Clinical Rationale Generation for Disease Diagnosis with Small Language Models](http://arxiv.org/abs/2411.07611v3)** | 2025-04-28 | 13 pages. 7 figures |
-| **[UNet with Axial Transformer : A Neural Weather Model for Precipitation Nowcasting](http://arxiv.org/abs/2504.19408v1)** | 2025-04-28 |  |
-| **[Frequency Domain Resampling for Gridded Spatial Data](http://arxiv.org/abs/2504.19337v1)** | 2025-04-27 |  |
-| **[Exploring the Impact of Integrating UI Testing in CI/CD Workflows on GitHub](http://arxiv.org/abs/2504.19335v1)** | 2025-04-27 |  |
-| **[Learning Stochastic Thermodynamics Directly from Correlation and Trajectory-Fluctuation Currents](http://arxiv.org/abs/2504.19007v1)** | 2025-04-26 | <details><summary>11 pa...</summary><p>11 pages, 6 appendices (10 pages), 4 figures; https://csc.ucdavis.edu/~cmg/compmech/pubs/currents.htm</p></details> |
-| **[Deep Learning-Based Multi-Modal Fusion for Robust Robot Perception and Navigation](http://arxiv.org/abs/2504.19002v1)** | 2025-04-26 | 6 pages, 4 figures |
-| **[On Bitcoin Price Prediction](http://arxiv.org/abs/2504.18982v1)** | 2025-04-26 |  |
-| **[Survival Analysis with Machine Learning for Predicting Li-ion Battery Remaining Useful Life](http://arxiv.org/abs/2503.13558v5)** | 2025-04-26 |  |
 
