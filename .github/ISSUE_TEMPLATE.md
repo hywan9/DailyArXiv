@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 07, 2025
+title: Latest 15 Papers - May 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ke1ewang/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,19 +7,19 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BRIDGE: Bootstrapping Text to Control Time-Series Generation via Multi-Agent Iterative Optimization and Diffusion Modelling](http://arxiv.org/abs/2503.02445v3)** | 2025-05-06 | ICML 2025 |
+| **[Mitigating mode collapse in normalizing flows by annealing with an adaptive schedule: Application to parameter estimation](http://arxiv.org/abs/2505.03652v1)** | 2025-05-06 | 19 pages, 10 figures |
+| **[Survival Analysis with Machine Learning for Predicting Li-ion Battery Remaining Useful Life](http://arxiv.org/abs/2503.13558v6)** | 2025-05-06 |  |
+| **[A new membership inference attack that spots memorization in generative and predictive models: Loss-Based with Reference Model algorithm (LBRM)](http://arxiv.org/abs/2505.03490v1)** | 2025-05-06 |  |
+| **[Efficient Multivariate Time Series Forecasting via Calibrated Language Models with Privileged Knowledge Distillation](http://arxiv.org/abs/2505.02138v2)** | 2025-05-06 | <details><summary>Accep...</summary><p>Accepted by ICDE 2025</p></details> |
+| **[On the asymptotics of extremal lp-blocks cluster inference](http://arxiv.org/abs/2212.13521v4)** | 2025-05-06 |  |
+| **[Synergizing Large Language Models and Task-specific Models for Time Series Anomaly Detection](http://arxiv.org/abs/2501.05675v4)** | 2025-05-06 |  |
+| **[FreDF: Learning to Forecast in the Frequency Domain](http://arxiv.org/abs/2402.02399v2)** | 2025-05-06 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025</p></details> |
+| **[A Cognitive-Mechanistic Human Reliability Analysis Framework: A Nuclear Power Plant Case Study](http://arxiv.org/abs/2504.18604v2)** | 2025-05-05 |  |
+| **[The Multimodal Paradox: How Added and Missing Modalities Shape Bias and Performance in Multimodal AI](http://arxiv.org/abs/2505.03020v1)** | 2025-05-05 | <details><summary>CVPR ...</summary><p>CVPR 2025 Second Workshop on Responsible Generative AI</p></details> |
+| **[Parameter estimation for land-surface models using machine learning libraries](http://arxiv.org/abs/2505.02979v1)** | 2025-05-05 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 3 tables</p></details> |
 | **[A Bayesian workflow for securitizing casualty insurance risk](http://arxiv.org/abs/2407.14666v2)** | 2025-05-05 | 36 pages, 8 figures |
 | **[SDA-GRIN for Adaptive Spatial-Temporal Multivariate Time Series Imputation](http://arxiv.org/abs/2410.03954v2)** | 2025-05-05 |  |
 | **[Re-purposing a modular origami manipulator into an adaptive physical computer for machine learning and robotic perception](http://arxiv.org/abs/2505.02744v1)** | 2025-05-05 |  |
 | **[Less is More: Efficient Weight Farcasting with 1-Layer Neural Network](http://arxiv.org/abs/2505.02714v1)** | 2025-05-05 | <details><summary>Accep...</summary><p>Accepted to DASFAA '25</p></details> |
-| **[Attractor-Based Coevolving Dot Product Random Graph Model](http://arxiv.org/abs/2505.02675v1)** | 2025-05-05 |  |
-| **[SCFormer: Structured Channel-wise Transformer with Cumulative Historical State for Multivariate Time Series Forecasting](http://arxiv.org/abs/2505.02655v1)** | 2025-05-05 |  |
-| **[Optimal Change Point Detection and Inference in the Spectral Density of General Time Series Models](http://arxiv.org/abs/2503.23211v2)** | 2025-05-05 | <details><summary>Fixed...</summary><p>Fixed minor typos in V1</p></details> |
-| **[Lane-Wise Highway Anomaly Detection](http://arxiv.org/abs/2505.02613v1)** | 2025-05-05 |  |
-| **[Data Compression for Time Series Modelling: A Case Study of Smart Grid Demand Forecasting](http://arxiv.org/abs/2505.02606v1)** | 2025-05-05 |  |
-| **[Maximal Compatibility Matching for Preference-Aware Ride-Hailing Systems](http://arxiv.org/abs/2505.02599v1)** | 2025-05-05 |  |
-| **[Towards Cross-Modality Modeling for Time Series Analytics: A Survey in the LLM Era](http://arxiv.org/abs/2505.02583v1)** | 2025-05-05 | <details><summary>Accep...</summary><p>Accepted by IJCAI 2025 Survey Track</p></details> |
-| **[One Transformer for All Time Series: Representing and Training with Time-Dependent Heterogeneous Tabular Data](http://arxiv.org/abs/2302.06375v4)** | 2025-05-05 | <details><summary>Publi...</summary><p>Published in Machine Learning Journal. 29 pages, 2 figures, 16 tables</p></details> |
-| **[Joint Problems in Learning Multiple Dynamical Systems](http://arxiv.org/abs/2311.02181v3)** | 2025-05-05 |  |
-| **[T2S: High-resolution Time Series Generation with Text-to-Series Diffusion Models](http://arxiv.org/abs/2505.02417v1)** | 2025-05-05 | <details><summary>Accep...</summary><p>Accepted by the 34th International Joint Conference on Artificial Intelligence (IJCAI 2025)</p></details> |
-| **[Weight-calibrated estimation for factor models of high-dimensional time series](http://arxiv.org/abs/2505.01357v2)** | 2025-05-05 | <details><summary>This ...</summary><p>This version includes the supplementary material of the paper</p></details> |
 
