@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 14, 2025
+title: Latest 15 Papers - May 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ke1ewang/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,19 +7,19 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[4TaStiC: Time and trend traveling time series clustering for classifying long-term type 2 diabetes patients](http://arxiv.org/abs/2505.07702v1)** | 2025-05-12 |  |
-| **[Time-Series Foundation AI Model for Value-at-Risk Forecasting](http://arxiv.org/abs/2410.11773v7)** | 2025-05-12 |  |
-| **[MedualTime: A Dual-Adapter Language Model for Medical Time Series-Text Multimodal Learning](http://arxiv.org/abs/2406.06620v3)** | 2025-05-12 | <details><summary>9 pag...</summary><p>9 pages, 6 figure, 3 tables</p></details> |
-| **[Transfer Learning with Foundational Models for Time Series Forecasting using Low-Rank Adaptations](http://arxiv.org/abs/2410.11539v3)** | 2025-05-12 |  |
-| **[Learning to Fuse Temporal Proximity Networks: A Case Study in Chimpanzee Social Interactions](http://arxiv.org/abs/2502.00302v2)** | 2025-05-12 |  |
-| **[Dynamical Label Augmentation and Calibration for Noisy Electronic Health Records](http://arxiv.org/abs/2505.07320v1)** | 2025-05-12 |  |
-| **[FCPCA: Fuzzy clustering of high-dimensional time series based on common principal component analysis](http://arxiv.org/abs/2505.07276v1)** | 2025-05-12 |  |
-| **[Causal View of Time Series Imputation: Some Identification Results on Missing Mechanism](http://arxiv.org/abs/2505.07180v1)** | 2025-05-12 |  |
-| **[Using matrix-product states for time-series machine learning](http://arxiv.org/abs/2412.15826v2)** | 2025-05-12 | 31 pages, 14 figures |
-| **[Flow Matching with Gaussian Process Priors for Probabilistic Time Series Forecasting](http://arxiv.org/abs/2410.03024v2)** | 2025-05-11 |  |
-| **[Wavelet Policy: Imitation Policy Learning in Frequency Domain with Wavelet Transforms](http://arxiv.org/abs/2504.04991v2)** | 2025-05-11 |  |
-| **[NetSight: Graph Attention Based Traffic Forecasting in Computer Networks](http://arxiv.org/abs/2505.07034v1)** | 2025-05-11 |  |
-| **[Marginalization Consistent Probabilistic Forecasting of Irregular Time Series via Mixture of Separable flows](http://arxiv.org/abs/2406.07246v2)** | 2025-05-11 |  |
-| **[Unraveling Quantum Environments: Transformer-Assisted Learning in Lindblad Dynamics](http://arxiv.org/abs/2505.06928v1)** | 2025-05-11 |  |
-| **[Non-Stationary Time Series Forecasting Based on Fourier Analysis and Cross Attention Mechanism](http://arxiv.org/abs/2505.06917v1)** | 2025-05-11 | IJCNN 2025 |
+| **[SPAT: Sensitivity-based Multihead-attention Pruning on Time Series Forecasting Models](http://arxiv.org/abs/2505.08768v1)** | 2025-05-13 |  |
+| **[Implet: A Post-hoc Subsequence Explainer for Time Series Models](http://arxiv.org/abs/2505.08748v1)** | 2025-05-13 |  |
+| **[TiMo: Spatiotemporal Foundation Model for Satellite Image Time Series](http://arxiv.org/abs/2505.08723v1)** | 2025-05-13 |  |
+| **[Sparse High-Dimensional Vector Autoregressive Bootstrap](http://arxiv.org/abs/2302.01233v2)** | 2025-05-13 |  |
+| **[From S4 to Mamba: A Comprehensive Survey on Structured State Space Models](http://arxiv.org/abs/2503.18970v2)** | 2025-05-13 | <details><summary>30 pa...</summary><p>30 pages, 8 figures, 3 tables</p></details> |
+| **[A Study of Data-driven Methods for Inventory Optimization](http://arxiv.org/abs/2505.08673v1)** | 2025-05-13 |  |
+| **[MINIMALIST: switched-capacitor circuits for efficient in-memory computation of gated recurrent units](http://arxiv.org/abs/2505.08599v1)** | 2025-05-13 |  |
+| **[Diffusion-assisted Model Predictive Control Optimization for Power System Real-Time Operation](http://arxiv.org/abs/2505.08535v1)** | 2025-05-13 | <details><summary>This ...</summary><p>This paper has been accepted by the 2025 IEEE PES General Meeting (PESGM) which will be held in Austin, TX, July.27-31, 2005</p></details> |
+| **[Learning Advanced Self-Attention for Linear Transformers in the Singular Value Domain](http://arxiv.org/abs/2505.08516v1)** | 2025-05-13 | IJCAI25 Accepted |
+| **[Early Detection of Forest Calamities in Homogeneous Stands -- Deep Learning Applied to Bark-Beetle Outbreaks](http://arxiv.org/abs/2503.12883v2)** | 2025-05-13 | <details><summary>24 pa...</summary><p>24 pages, 18 figures, submitted to IEEE: Journal of Selected Topics in Applied Earth Observations and Remote Sensing</p></details> |
+| **[Efficient Unstructured Pruning of Mamba State-Space Models for Resource-Constrained Environments](http://arxiv.org/abs/2505.08299v1)** | 2025-05-13 |  |
+| **[Decoding Futures Price Dynamics: A Regularized Sparse Autoencoder for Interpretable Multi-Horizon Forecasting and Factor Discovery](http://arxiv.org/abs/2505.06795v3)** | 2025-05-14 |  |
+| **[A Multi-scale Representation Learning Framework for Long-Term Time Series Forecasting](http://arxiv.org/abs/2505.08199v1)** | 2025-05-13 |  |
+| **[Feature Fitted Online Conformal Prediction for Deep Time Series Forecasting Model](http://arxiv.org/abs/2505.08158v1)** | 2025-05-13 |  |
+| **[PoisonCatcher: Revealing and Identifying LDP Poisoning Attacks in IIoT](http://arxiv.org/abs/2412.15704v2)** | 2025-05-13 | <details><summary>14 pa...</summary><p>14 pages,7 figures, 2 tables</p></details> |
 
