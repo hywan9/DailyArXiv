@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 20, 2025
+title: Latest 15 Papers - May 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ke1ewang/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,19 +7,19 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Uncertainty quantification with approximate variational learning for wearable photoplethysmography prediction tasks](http://arxiv.org/abs/2505.11412v1)** | 2025-05-16 |  |
-| **[IISE PG&E Energy Analytics Challenge 2025: Hourly-Binned Regression Models Beat Transformers in Load Forecasting](http://arxiv.org/abs/2505.11390v1)** | 2025-05-16 |  |
-| **[Context parroting: A simple but tough-to-beat baseline for foundation models in scientific machine learning](http://arxiv.org/abs/2505.11349v1)** | 2025-05-16 |  |
-| **[A Radon-Nikodým Perspective on Anomaly Detection: Theory and Implications](http://arxiv.org/abs/2502.18002v2)** | 2025-05-16 |  |
-| **[Anomaly Detection for Non-stationary Time Series using Recurrent Wavelet Probabilistic Neural Network](http://arxiv.org/abs/2505.11321v1)** | 2025-05-16 |  |
-| **[Effective Probabilistic Time Series Forecasting with Fourier Adaptive Noise-Separated Diffusion](http://arxiv.org/abs/2505.11306v1)** | 2025-05-16 |  |
-| **[Rethinking Irregular Time Series Forecasting: A Simple yet Effective Baseline](http://arxiv.org/abs/2505.11250v1)** | 2025-05-16 |  |
-| **[A Set-Sequence Model for Time Series](http://arxiv.org/abs/2505.11243v1)** | 2025-05-16 | <details><summary>Prese...</summary><p>Presented at the Workshop on Financial AI at ICLR 2025</p></details> |
-| **[A Multi-scale Representation Learning Framework for Long-Term Time Series Forecasting](http://arxiv.org/abs/2505.08199v2)** | 2025-05-16 |  |
-| **[Inferring the Most Similar Variable-length Subsequences between Multidimensional Time Series](http://arxiv.org/abs/2505.11106v1)** | 2025-05-16 | Under review |
-| **[Intervention-Aware Forecasting: Breaking Historical Limits from a System Perspective](http://arxiv.org/abs/2405.13522v3)** | 2025-05-16 |  |
-| **[Logo-LLM: Local and Global Modeling with Large Language Models for Time Series Forecasting](http://arxiv.org/abs/2505.11017v1)** | 2025-05-16 |  |
-| **[TimeCapsule: Solving the Jigsaw Puzzle of Long-Term Time Series Forecasting with Compressed Predictive Representations](http://arxiv.org/abs/2504.12721v2)** | 2025-05-16 |  |
-| **[Towards Principled Task Grouping for Multi-Task Learning](http://arxiv.org/abs/2402.15328v2)** | 2025-05-16 |  |
-| **[Binned Spectral Power Loss for Improved Prediction of Chaotic Systems](http://arxiv.org/abs/2502.00472v2)** | 2025-05-16 |  |
+| **[An Empirical Bayes approach to ARX Estimation](http://arxiv.org/abs/2505.13384v1)** | 2025-05-19 |  |
+| **[TimeSeriesGym: A Scalable Benchmark for (Time Series) Machine Learning Engineering Agents](http://arxiv.org/abs/2505.13291v1)** | 2025-05-19 | <details><summary>Open ...</summary><p>Open source code available at https://github.com/moment-timeseries-foundation-model/TimeSeriesGym. YC, XL, MG and MW contributed equally, and should be considered joint first authors</p></details> |
+| **[Level Generation with Quantum Reservoir Computing](http://arxiv.org/abs/2505.13287v1)** | 2025-05-19 |  |
+| **[Performance of Zero-Shot Time Series Foundation Models on Cloud Data](http://arxiv.org/abs/2502.12944v3)** | 2025-05-19 | <details><summary>5 pag...</summary><p>5 pages, presented at the "I Can't Believe It's Not Better" workshop at ICLR 2025</p></details> |
+| **[True Zero-Shot Inference of Dynamical Systems Preserving Long-Term Statistics](http://arxiv.org/abs/2505.13192v1)** | 2025-05-19 |  |
+| **[Enhancing LLMs for Time Series Forecasting via Structure-Guided Cross-Modal Alignment](http://arxiv.org/abs/2505.13175v1)** | 2025-05-19 |  |
+| **[RIFLES: Resource-effIcient Federated LEarning via Scheduling](http://arxiv.org/abs/2505.13169v1)** | 2025-05-19 |  |
+| **[panelPomp: Analysis of Panel Data via Partially Observed Markov Processes in R](http://arxiv.org/abs/2410.07934v2)** | 2025-05-19 |  |
+| **[Toward Relative Positional Encoding in Spiking Transformers](http://arxiv.org/abs/2501.16745v2)** | 2025-05-19 |  |
+| **[Time series saliency maps: explaining models across multiple domains](http://arxiv.org/abs/2505.13100v1)** | 2025-05-19 |  |
+| **[Unifying concepts in information-theoretic time-series analysis](http://arxiv.org/abs/2505.13080v2)** | 2025-05-20 | <details><summary>34 pa...</summary><p>34 pages (including references), 15 figures</p></details> |
+| **[Exploring Neural Granger Causality with xLSTMs: Unveiling Temporal Dependencies in Complex Data](http://arxiv.org/abs/2502.09981v3)** | 2025-05-20 |  |
+| **[Testing procedures based on maximum likelihood estimation for Marked Hawkes processes](http://arxiv.org/abs/2410.05008v2)** | 2025-05-19 |  |
+| **[TSPulse: Dual Space Tiny Pre-Trained Models for Rapid Time-Series Analysis](http://arxiv.org/abs/2505.13033v1)** | 2025-05-19 |  |
+| **[Agent Performing Autonomous Stock Trading under Good and Bad Situations](http://arxiv.org/abs/2306.03985v2)** | 2025-05-19 | <details><summary>Publi...</summary><p>Published as a workshop paper at ICLR 2023: AI for Agent Based Modeling</p></details> |
 
