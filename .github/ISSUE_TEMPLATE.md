@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 25, 2025
+title: Latest 15 Papers - May 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ke1ewang/DailyArXiv) page for a better reading experience and more papers.**
@@ -11,7 +11,7 @@ labels: documentation
 | **[Dynamic Reservoir Computing with Physical Neuromorphic Networks](http://arxiv.org/abs/2505.16813v1)** | 2025-05-22 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, IJCNN 2025, accepted</p></details> |
 | **[On the use of Graphs for Satellite Image Time Series](http://arxiv.org/abs/2505.16685v1)** | 2025-05-22 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
 | **[CausalDynamics: A large-scale benchmark for structural discovery of dynamical causal models](http://arxiv.org/abs/2505.16620v1)** | 2025-05-22 | <details><summary>16+19...</summary><p>16+19 pages, 5+8 figures</p></details> |
-| **[FreshRetailNet-50K: A Stockout-Annotated Censored Demand Dataset for Latent Demand Recovery and Forecasting in Fresh Retail](http://arxiv.org/abs/2505.16319v1)** | 2025-05-22 | 10 pages, 5 figures |
+| **[FreshRetailNet-50K: A Stockout-Annotated Censored Demand Dataset for Latent Demand Recovery and Forecasting in Fresh Retail](http://arxiv.org/abs/2505.16319v2)** | 2025-05-23 | 10 pages, 5 figures |
 | **[CAIFormer: A Causal Informed Transformer for Multivariate Time Series Forecasting](http://arxiv.org/abs/2505.16308v1)** | 2025-05-22 |  |
 | **[ReAugment: Model Zoo-Guided RL for Few-Shot Time Series Augmentation and Forecasting](http://arxiv.org/abs/2409.06282v4)** | 2025-05-22 |  |
 | **[MADCluster: Model-agnostic Anomaly Detection with Self-supervised Clustering Network](http://arxiv.org/abs/2505.16223v1)** | 2025-05-22 | 24 pages, 9 figures |
