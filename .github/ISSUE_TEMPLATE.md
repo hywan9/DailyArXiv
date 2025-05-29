@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 28, 2025
+title: Latest 15 Papers - May 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ke1ewang/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,19 +7,19 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Tables to Time: How TabPFN-v2 Outperforms Specialized Time Series Forecasting Models](http://arxiv.org/abs/2501.02945v3)** | 2025-05-26 | <details><summary>This ...</summary><p>This version extends our NeurIPS 2024 workshop paper, The Tabular Foundation Model TabPFN Outperforms Specialized Time Series Forecasting Models Based on Simple Features, presented at the Table Representation Learning and Time Series in the Age of Large Models workshops</p></details> |
-| **[Time-VLM: Exploring Multimodal Vision-Language Models for Augmented Time Series Forecasting](http://arxiv.org/abs/2502.04395v2)** | 2025-05-26 | 20 pages |
-| **[Synthetic Time Series Forecasting with Transformer Architectures: Extensive Simulation Benchmarks](http://arxiv.org/abs/2505.20048v1)** | 2025-05-26 |  |
-| **[Efficient Time Series Processing for Transformers and State-Space Models through Token Merging](http://arxiv.org/abs/2405.17951v2)** | 2025-05-26 | <details><summary>21 pa...</summary><p>21 pages in total, 20 figures</p></details> |
-| **[Using Time Structure to Estimate Causal Effects](http://arxiv.org/abs/2504.11076v2)** | 2025-05-26 | <details><summary>26 pa...</summary><p>26 pages main paper, 30 pages Appendix, 56 pages in total, 3 tables, 7 figures</p></details> |
-| **[CITRAS: Covariate-Informed Transformer for Time Series Forecasting](http://arxiv.org/abs/2503.24007v2)** | 2025-05-26 |  |
-| **[Semi-Supervised Model-Free Bayesian State Estimation from Compressed Measurements](http://arxiv.org/abs/2407.07368v5)** | 2025-05-26 | <details><summary>14 pa...</summary><p>14 pages, 12 figures, under review at IEEE Transactions on Signal Processing</p></details> |
-| **[Understanding Why Large Language Models Can Be Ineffective in Time Series Analysis: The Impact of Modality Alignment](http://arxiv.org/abs/2410.12326v2)** | 2025-05-26 |  |
-| **[A Generative Approach to Credit Prediction with Learnable Prompts for Multi-scale Temporal Representation Learning](http://arxiv.org/abs/2404.13004v4)** | 2025-05-26 |  |
-| **[Are Time-Series Foundation Models Deployment-Ready? A Systematic Study of Adversarial Robustness Across Domains](http://arxiv.org/abs/2505.19397v1)** | 2025-05-26 | Preprint |
-| **[Time Series Embedding Methods for Classification Tasks: A Review](http://arxiv.org/abs/2501.13392v2)** | 2025-05-25 |  |
-| **[Agentic Information Theory: Ergodicity and Intrinsic Semantics of Information Processes](http://arxiv.org/abs/2505.19275v1)** | 2025-05-25 | <details><summary>24 pa...</summary><p>24 pages, 10 figures, 1 appendix; http://csc.ucdavis.edu/~cmg/compmech/pubs/iprocesses.htm</p></details> |
-| **[Enhancing Black-Litterman Portfolio via Hybrid Forecasting Model Combining Multivariate Decomposition and Noise Reduction](http://arxiv.org/abs/2505.01781v2)** | 2025-05-25 |  |
-| **[GlobalGeoTree: A Multi-Granular Vision-Language Dataset for Global Tree Species Classification](http://arxiv.org/abs/2505.12513v2)** | 2025-05-25 |  |
-| **[A Joint Learning Framework with Feature Reconstruction and Prediction for Incomplete Satellite Image Time Series in Agricultural Semantic Segmentation](http://arxiv.org/abs/2505.19159v1)** | 2025-05-25 |  |
+| **[AgriFM: A Multi-source Temporal Remote Sensing Foundation Model for Crop Mapping](http://arxiv.org/abs/2505.21357v2)** | 2025-05-28 |  |
+| **[FRIREN: Beyond Trajectories -- A Spectral Lens on Time](http://arxiv.org/abs/2505.17370v2)** | 2025-05-27 | <details><summary>37 pa...</summary><p>37 pages, 4 figures. Submitted to NeurIPS 2025. Public code at https://anonymous.4open.science/r/LTSF_model-C6B8/</p></details> |
+| **[Developing hybrid mechanistic and data-driven personalized prediction models for platelet dynamics](http://arxiv.org/abs/2505.21204v1)** | 2025-05-27 |  |
+| **[Implicit Dynamical Flow Fusion (IDFF) for Generative Modeling](http://arxiv.org/abs/2409.14599v4)** | 2025-05-27 |  |
+| **[Crop recommendation with machine learning: leveraging environmental and economic factors for optimal crop selection](http://arxiv.org/abs/2505.21201v1)** | 2025-05-27 | <details><summary>22 pa...</summary><p>22 pages and 13 figures</p></details> |
+| **[STEB: In Search of the Best Evaluation Approach for Synthetic Time Series](http://arxiv.org/abs/2505.21160v1)** | 2025-05-27 |  |
+| **[Recurrent Memory for Online Interdomain Gaussian Processes](http://arxiv.org/abs/2502.08736v3)** | 2025-05-27 | 27 pages, 17 figures |
+| **[Bridging the Gap Between Data-Driven And Theory-Driven Modelling - Leveraging Causal Machine Learning for Integrative Modelling of Dynamical Systems](http://arxiv.org/abs/2410.09516v3)** | 2025-05-27 | <details><summary>16 pa...</summary><p>16 pages, 9 figures and 3 tables</p></details> |
+| **[Uncovering Black-hat SEO based fake E-commerce scam groups from their redirectors and websites](http://arxiv.org/abs/2505.21021v1)** | 2025-05-27 |  |
+| **[shapr: Explaining Machine Learning Models with Conditional Shapley Values in R and Python](http://arxiv.org/abs/2504.01842v2)** | 2025-05-27 |  |
+| **[Unified Deep Learning Approach for Estimating the Metallicities of RR Lyrae Stars Using light curves from Gaia Data Release 3](http://arxiv.org/abs/2505.20947v1)** | 2025-05-27 |  |
+| **[Frequency-Aware Masked Autoencoders for Human Activity Recognition using Accelerometers](http://arxiv.org/abs/2502.17477v2)** | 2025-05-27 | <details><summary>7 pag...</summary><p>7 pages, 4 figures, accepted in 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)</p></details> |
+| **[DeepConvContext: A Multi-Scale Approach to Timeseries Classification in Human Activity Recognition](http://arxiv.org/abs/2505.20894v1)** | 2025-05-27 | 7 pages, 3 figures |
+| **[Mixture of Low Rank Adaptation with Partial Parameter Sharing for Time Series Forecasting](http://arxiv.org/abs/2505.17872v2)** | 2025-05-27 |  |
+| **[TimePro: Efficient Multivariate Long-term Time Series Forecasting with Variable- and Time-Aware Hyper-state](http://arxiv.org/abs/2505.20774v1)** | 2025-05-27 | ICML 2025 |
 
