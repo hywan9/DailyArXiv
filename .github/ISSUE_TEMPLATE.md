@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 29, 2025
+title: Latest 15 Papers - May 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ke1ewang/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,19 +7,19 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Intrinsic User-Centric Interpretability through Global Mixture of Experts](http://arxiv.org/abs/2402.02933v4)** | 2025-05-28 | <details><summary>Accep...</summary><p>Accepted as a full paper at ICLR 2025 (top 5% of scores) in Singapore</p></details> |
+| **[Forecasting Multivariate Urban Data via Decomposition and Spatio-Temporal Graph Analysis](http://arxiv.org/abs/2505.22474v1)** | 2025-05-28 |  |
+| **[COSMOS: A Data-Driven Probabilistic Time Series simulator for Chemical Plumes across Spatial Scales](http://arxiv.org/abs/2505.22436v1)** | 2025-05-28 | <details><summary>16 pa...</summary><p>16 pages, 4 primary figures</p></details> |
+| **[Max-laws of large numbers for weakly dependent high dimensional arrays with applications](http://arxiv.org/abs/2505.22423v1)** | 2025-05-28 |  |
+| **[Infinite-dimensional Mahalanobis Distance with Applications to Kernelized Novelty Detection](http://arxiv.org/abs/2407.11873v2)** | 2025-05-28 |  |
+| **[UDuo: Universal Dual Optimization Framework for Online Matching](http://arxiv.org/abs/2505.22243v1)** | 2025-05-28 |  |
+| **[Galileo: Learning Global & Local Features of Many Remote Sensing Modalities](http://arxiv.org/abs/2502.09356v2)** | 2025-05-28 |  |
 | **[AgriFM: A Multi-source Temporal Remote Sensing Foundation Model for Crop Mapping](http://arxiv.org/abs/2505.21357v2)** | 2025-05-28 |  |
-| **[FRIREN: Beyond Trajectories -- A Spectral Lens on Time](http://arxiv.org/abs/2505.17370v2)** | 2025-05-27 | <details><summary>37 pa...</summary><p>37 pages, 4 figures. Submitted to NeurIPS 2025. Public code at https://anonymous.4open.science/r/LTSF_model-C6B8/</p></details> |
-| **[Developing hybrid mechanistic and data-driven personalized prediction models for platelet dynamics](http://arxiv.org/abs/2505.21204v1)** | 2025-05-27 |  |
-| **[Implicit Dynamical Flow Fusion (IDFF) for Generative Modeling](http://arxiv.org/abs/2409.14599v4)** | 2025-05-27 |  |
-| **[Crop recommendation with machine learning: leveraging environmental and economic factors for optimal crop selection](http://arxiv.org/abs/2505.21201v1)** | 2025-05-27 | <details><summary>22 pa...</summary><p>22 pages and 13 figures</p></details> |
-| **[STEB: In Search of the Best Evaluation Approach for Synthetic Time Series](http://arxiv.org/abs/2505.21160v1)** | 2025-05-27 |  |
-| **[Recurrent Memory for Online Interdomain Gaussian Processes](http://arxiv.org/abs/2502.08736v3)** | 2025-05-27 | 27 pages, 17 figures |
-| **[Bridging the Gap Between Data-Driven And Theory-Driven Modelling - Leveraging Causal Machine Learning for Integrative Modelling of Dynamical Systems](http://arxiv.org/abs/2410.09516v3)** | 2025-05-27 | <details><summary>16 pa...</summary><p>16 pages, 9 figures and 3 tables</p></details> |
-| **[Uncovering Black-hat SEO based fake E-commerce scam groups from their redirectors and websites](http://arxiv.org/abs/2505.21021v1)** | 2025-05-27 |  |
-| **[shapr: Explaining Machine Learning Models with Conditional Shapley Values in R and Python](http://arxiv.org/abs/2504.01842v2)** | 2025-05-27 |  |
-| **[Unified Deep Learning Approach for Estimating the Metallicities of RR Lyrae Stars Using light curves from Gaia Data Release 3](http://arxiv.org/abs/2505.20947v1)** | 2025-05-27 |  |
-| **[Frequency-Aware Masked Autoencoders for Human Activity Recognition using Accelerometers](http://arxiv.org/abs/2502.17477v2)** | 2025-05-27 | <details><summary>7 pag...</summary><p>7 pages, 4 figures, accepted in 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)</p></details> |
-| **[DeepConvContext: A Multi-Scale Approach to Timeseries Classification in Human Activity Recognition](http://arxiv.org/abs/2505.20894v1)** | 2025-05-27 | 7 pages, 3 figures |
-| **[Mixture of Low Rank Adaptation with Partial Parameter Sharing for Time Series Forecasting](http://arxiv.org/abs/2505.17872v2)** | 2025-05-27 |  |
-| **[TimePro: Efficient Multivariate Long-term Time Series Forecasting with Variable- and Time-Aware Hyper-state](http://arxiv.org/abs/2505.20774v1)** | 2025-05-27 | ICML 2025 |
+| **[Multimodal Forecasting of Sparse Intraoperative Hypotension Events Powered by Language Model](http://arxiv.org/abs/2505.22116v1)** | 2025-05-28 |  |
+| **[Conditional Denoising Meets Polynomial Modeling: A Flexible Decoupled Framework for Time Series Forecasting](http://arxiv.org/abs/2410.13253v6)** | 2025-05-28 |  |
+| **[BatteryLife: A Comprehensive Dataset and Benchmark for Battery Life Prediction](http://arxiv.org/abs/2502.18807v4)** | 2025-05-29 | Accepted by KDD 2025 |
+| **[A Hybrid Multi-Factor Network with Dynamic Sequence Modeling for Early Warning of Intraoperative Hypotension](http://arxiv.org/abs/2409.11064v3)** | 2025-05-28 |  |
+| **[Adaptive Block-Based Change-Point Detection for Sparse Spatially Clustered Data with Applications in Remote Sensing Imaging](http://arxiv.org/abs/2505.21814v1)** | 2025-05-27 |  |
+| **[LibIQ: Toward Real-Time Spectrum Classification in O-RAN dApps](http://arxiv.org/abs/2505.10537v2)** | 2025-05-27 | <details><summary>6 pag...</summary><p>6 pages, 5 figures, 2 tables</p></details> |
+| **[Explainable Multi-modal Time Series Prediction with LLM-in-the-Loop](http://arxiv.org/abs/2503.01013v2)** | 2025-05-27 |  |
 
