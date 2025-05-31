@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 30, 2025
+title: Latest 15 Papers - May 31, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ke1ewang/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,19 +7,19 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Intrinsic User-Centric Interpretability through Global Mixture of Experts](http://arxiv.org/abs/2402.02933v4)** | 2025-05-28 | <details><summary>Accep...</summary><p>Accepted as a full paper at ICLR 2025 (top 5% of scores) in Singapore</p></details> |
-| **[Forecasting Multivariate Urban Data via Decomposition and Spatio-Temporal Graph Analysis](http://arxiv.org/abs/2505.22474v1)** | 2025-05-28 |  |
-| **[COSMOS: A Data-Driven Probabilistic Time Series simulator for Chemical Plumes across Spatial Scales](http://arxiv.org/abs/2505.22436v1)** | 2025-05-28 | <details><summary>16 pa...</summary><p>16 pages, 4 primary figures</p></details> |
-| **[Max-laws of large numbers for weakly dependent high dimensional arrays with applications](http://arxiv.org/abs/2505.22423v1)** | 2025-05-28 |  |
-| **[Infinite-dimensional Mahalanobis Distance with Applications to Kernelized Novelty Detection](http://arxiv.org/abs/2407.11873v2)** | 2025-05-28 |  |
-| **[UDuo: Universal Dual Optimization Framework for Online Matching](http://arxiv.org/abs/2505.22243v1)** | 2025-05-28 |  |
-| **[Galileo: Learning Global & Local Features of Many Remote Sensing Modalities](http://arxiv.org/abs/2502.09356v2)** | 2025-05-28 |  |
-| **[AgriFM: A Multi-source Temporal Remote Sensing Foundation Model for Crop Mapping](http://arxiv.org/abs/2505.21357v2)** | 2025-05-28 |  |
-| **[Multimodal Forecasting of Sparse Intraoperative Hypotension Events Powered by Language Model](http://arxiv.org/abs/2505.22116v1)** | 2025-05-28 |  |
-| **[Conditional Denoising Meets Polynomial Modeling: A Flexible Decoupled Framework for Time Series Forecasting](http://arxiv.org/abs/2410.13253v6)** | 2025-05-28 |  |
+| **[Exposing the Impact of GenAI for Cybercrime: An Investigation into the Dark Side](http://arxiv.org/abs/2505.23733v1)** | 2025-05-29 |  |
+| **[TiRex: Zero-Shot Forecasting Across Long and Short Horizons with Enhanced In-Context Learning](http://arxiv.org/abs/2505.23719v1)** | 2025-05-29 |  |
+| **[Towards Explainable Sequential Learning](http://arxiv.org/abs/2505.23624v1)** | 2025-05-29 |  |
+| **[Improving Time Series Forecasting via Instance-aware Post-hoc Revision](http://arxiv.org/abs/2505.23583v1)** | 2025-05-29 |  |
+| **[Maximum Likelihood Learning of Latent Dynamics Without Reconstruction](http://arxiv.org/abs/2505.23569v1)** | 2025-05-29 |  |
+| **[Robust Estimation of Double Autoregressive Models via Normal Mixture QMLE](http://arxiv.org/abs/2505.23535v1)** | 2025-05-29 |  |
+| **[Network Weighted Functional Regression: a method for modeling dependencies between functional data in a network](http://arxiv.org/abs/2501.18221v2)** | 2025-05-29 |  |
+| **[TimePoint: Accelerated Time Series Alignment via Self-Supervised Keypoint and Descriptor Learning](http://arxiv.org/abs/2505.23475v1)** | 2025-05-29 | ICML 2025 |
+| **[Privacy Amplification by Structured Subsampling for Deep Differentially Private Time Series Forecasting](http://arxiv.org/abs/2502.02410v2)** | 2025-05-29 | <details><summary>Accep...</summary><p>Accepted as ICML 2025 Spotlight</p></details> |
 | **[BatteryLife: A Comprehensive Dataset and Benchmark for Battery Life Prediction](http://arxiv.org/abs/2502.18807v4)** | 2025-05-29 | Accepted by KDD 2025 |
-| **[A Hybrid Multi-Factor Network with Dynamic Sequence Modeling for Early Warning of Intraoperative Hypotension](http://arxiv.org/abs/2409.11064v3)** | 2025-05-28 |  |
-| **[Adaptive Block-Based Change-Point Detection for Sparse Spatially Clustered Data with Applications in Remote Sensing Imaging](http://arxiv.org/abs/2505.21814v1)** | 2025-05-27 |  |
-| **[LibIQ: Toward Real-Time Spectrum Classification in O-RAN dApps](http://arxiv.org/abs/2505.10537v2)** | 2025-05-27 | <details><summary>6 pag...</summary><p>6 pages, 5 figures, 2 tables</p></details> |
-| **[Explainable Multi-modal Time Series Prediction with LLM-in-the-Loop](http://arxiv.org/abs/2503.01013v2)** | 2025-05-27 |  |
+| **[State Space Model Programming in Turing.jl](http://arxiv.org/abs/2505.23302v1)** | 2025-05-29 | <details><summary>16 pa...</summary><p>16 pages, 6 figures, Presented at LAFI (Languages for Inference) Workshop, POPL 2025</p></details> |
+| **[Sparseformer: a Transferable Transformer with Multi-granularity Token Sparsification for Medical Time Series Classification](http://arxiv.org/abs/2503.15578v2)** | 2025-05-29 | <details><summary>3 fig...</summary><p>3 figures, 16 pages, 5 tables</p></details> |
+| **[JANET: Joint Adaptive predictioN-region Estimation for Time-series](http://arxiv.org/abs/2407.06390v2)** | 2025-05-29 | <details><summary>Accep...</summary><p>Accepted to ECML Journal for Machine Learning Alternate Title: Conformalised Joint Prediction Region for Time Series</p></details> |
+| **[Trajectory Generator Matching for Time Series](http://arxiv.org/abs/2505.23215v1)** | 2025-05-29 |  |
+| **[Less is More: Unlocking Specialization of Time Series Foundation Models via Structured Pruning](http://arxiv.org/abs/2505.23195v1)** | 2025-05-29 | <details><summary>Manus...</summary><p>Manuscript with fixed typos and figures</p></details> |
 
