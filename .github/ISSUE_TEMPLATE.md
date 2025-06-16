@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 16, 2025
+title: Latest 15 Papers - June 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ke1ewang/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,19 +7,19 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Learning Chaotic Dynamics with Neuromorphic Network Dynamics](http://arxiv.org/abs/2506.10773v1)** | 2025-06-12 | 37 pages, 22 figures |
-| **[STOAT: Spatial-Temporal Probabilistic Causal Inference Network](http://arxiv.org/abs/2506.09544v2)** | 2025-06-12 |  |
-| **[TSFM-Bench: A Comprehensive and Unified Benchmark of Foundation Models for Time Series Forecasting](http://arxiv.org/abs/2410.11802v6)** | 2025-06-12 |  |
-| **[Time Series Forecasting as Reasoning: A Slow-Thinking Approach with Reinforced LLMs](http://arxiv.org/abs/2506.10630v1)** | 2025-06-12 |  |
-| **[Deep Learning-Based Digitization of Overlapping ECG Images with Open-Source Python Code](http://arxiv.org/abs/2506.10617v1)** | 2025-06-12 |  |
-| **[Time-IMM: A Dataset and Benchmark for Irregular Multimodal Multivariate Time Series](http://arxiv.org/abs/2506.10412v1)** | 2025-06-12 | <details><summary>This ...</summary><p>This paper is currently under review</p></details> |
-| **[TimeBridge: Better Diffusion Prior Design with Bridge Models for Time Series Generation](http://arxiv.org/abs/2408.06672v2)** | 2025-06-12 |  |
-| **[Center-fixing of tropical cyclones using uncertainty-aware deep learning applied to high-temporal-resolution geostationary satellite imagery](http://arxiv.org/abs/2409.16507v3)** | 2025-06-11 | <details><summary>Submi...</summary><p>Submitted to AMS journal Weather and Forecasting. Main body is 66 pages and 18 figures; supplement is another 40 pages and 35 figures</p></details> |
-| **[VISTA: Vision-Language Inference for Training-Free Stock Time-Series Analysis](http://arxiv.org/abs/2505.18570v3)** | 2025-06-11 | <details><summary>Accep...</summary><p>Accepted to the CVPR 2025 Workshop on Transformers for Vision (T4V): https://sites.google.com/view/t4v-cvpr25/accepted-papers</p></details> |
-| **[Mamba time series forecasting with uncertainty quantification](http://arxiv.org/abs/2503.10873v2)** | 2025-06-11 |  |
-| **[FinTSBridge: A New Evaluation Suite for Real-world Financial Prediction with Advanced Time Series Models](http://arxiv.org/abs/2503.06928v2)** | 2025-06-11 | <details><summary>ICLR ...</summary><p>ICLR 2025 Workshop Advances in Financial AI</p></details> |
-| **[Towards Foundational Models for Dynamical System Reconstruction: Hierarchical Meta-Learning via Mixture of Experts](http://arxiv.org/abs/2502.05335v2)** | 2025-06-11 | <details><summary>22 pa...</summary><p>22 pages, 11 figures, 7 tables. Accepted as a SCOPE workshop paper at ICLR 2025</p></details> |
-| **[Share Secrets for Privacy: Confidential Forecasting with Vertical Federated Learning](http://arxiv.org/abs/2405.20761v2)** | 2025-06-11 | <details><summary>Accep...</summary><p>Accepted at the 20th International Conference on Availability, Reliability and Security (ARES 2025)</p></details> |
-| **[Neural Functions for Learning Periodic Signal](http://arxiv.org/abs/2506.09526v1)** | 2025-06-11 |  |
-| **[LLM-Powered CPI Prediction Inference with Online Text Time Series](http://arxiv.org/abs/2506.09516v1)** | 2025-06-11 | 73 pages, 13 figures |
+| **[Variational Neural Stochastic Differential Equations with Change Points](http://arxiv.org/abs/2411.00635v2)** | 2025-06-13 |  |
+| **[Why Do Class-Dependent Evaluation Effects Occur with Time Series Feature Attributions? A Synthetic Data Investigation](http://arxiv.org/abs/2506.11790v1)** | 2025-06-13 |  |
+| **[Right on Time: Revising Time Series Models by Constraining their Explanations](http://arxiv.org/abs/2402.12921v5)** | 2025-06-13 | <details><summary>to be...</summary><p>to be published in ECML PKDD 2025</p></details> |
+| **[A Survey on Deep Learning based Time Series Analysis with Frequency Transformation](http://arxiv.org/abs/2302.02173v6)** | 2025-06-13 | Accepted By KDD 2025 |
+| **[Perspectives on Explanation Formats From Two Stakeholder Groups in Germany: Software Providers and Dairy Farmers](http://arxiv.org/abs/2506.11665v1)** | 2025-06-13 | <details><summary>Accep...</summary><p>Accepted at IJCAI 2024, Explainable AI Workshop</p></details> |
+| **[Functional-Coefficient Models for Multivariate Time Series in Designed Experiments: with Applications to Brain Signals](http://arxiv.org/abs/2208.00292v3)** | 2025-06-13 |  |
+| **[Leveraging Satellite Image Time Series for Accurate Extreme Event Detection](http://arxiv.org/abs/2506.11544v1)** | 2025-06-13 | <details><summary>Accep...</summary><p>Accepted to the WACV 2025 Workshop on GeoCV. Code, datasets, and model checkpoints available at: https://github.com/hfangcat/SITS-ExtremeEvents</p></details> |
+| **[Delayformer: spatiotemporal transformation for predicting high-dimensional dynamics](http://arxiv.org/abs/2506.11528v1)** | 2025-06-13 | <details><summary>This ...</summary><p>This paper is currently under review</p></details> |
+| **[Prioritizing Alignment Paradigms over Task-Specific Model Customization in Time-Series LLMs](http://arxiv.org/abs/2506.11512v1)** | 2025-06-13 |  |
+| **[A Two-step Estimating Approach for Heavy-tailed AR Models with General Non-zero Median Noises](http://arxiv.org/abs/2506.11509v1)** | 2025-06-13 |  |
+| **[Voxel-Level Brain States Prediction Using Swin Transformer](http://arxiv.org/abs/2506.11455v1)** | 2025-06-13 |  |
+| **[Capturing Temporal Dynamics in Large-Scale Canopy Tree Height Estimation](http://arxiv.org/abs/2501.19328v2)** | 2025-06-12 | <details><summary>ICML ...</summary><p>ICML Camera-Ready, 9 pages main paper, 8 pages references and appendix, 9 figures, 8 tables</p></details> |
+| **[Sensor Model Identification via Simultaneous Model Selection and State Variable Determination](http://arxiv.org/abs/2506.11263v1)** | 2025-06-12 |  |
+| **[Can Time-Series Foundation Models Perform Building Energy Management Tasks?](http://arxiv.org/abs/2506.11250v1)** | 2025-06-12 | <details><summary>30 pa...</summary><p>30 pages, 5 tables, 8 figures. Under review for Data-Centric Engineering journal</p></details> |
+| **[Regularized Estimation of the Loading Matrix in Factor Models for High-Dimensional Time Series](http://arxiv.org/abs/2506.11232v1)** | 2025-06-12 |  |
 
