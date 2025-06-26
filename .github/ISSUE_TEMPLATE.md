@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 26, 2025
+title: Latest 15 Papers - June 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ke1ewang/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,19 +7,19 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects](http://arxiv.org/abs/2506.19769v1)** | 2025-06-24 |  |
-| **[The Shape of Consumer Behavior: A Symbolic and Topological Analysis of Time Series](http://arxiv.org/abs/2506.19759v1)** | 2025-06-24 | 33 pages, 30 figures |
-| **[Hierarchical Time Series Forecasting Via Latent Mean Encoding](http://arxiv.org/abs/2506.19633v1)** | 2025-06-24 |  |
-| **[Vision Transformer-Based Time-Series Image Reconstruction for Cloud-Filling Applications](http://arxiv.org/abs/2506.19591v1)** | 2025-06-24 | <details><summary>This ...</summary><p>This paper has been accepted as a conference paper at the 2025 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)</p></details> |
-| **[Towards an Introspective Dynamic Model of Globally Distributed Computing Infrastructures](http://arxiv.org/abs/2506.19578v1)** | 2025-06-24 |  |
-| **[FAF: A Feature-Adaptive Framework for Few-Shot Time Series Forecasting](http://arxiv.org/abs/2506.19567v1)** | 2025-06-24 | <details><summary>12 pa...</summary><p>12 pages,4 figures, 8 tables</p></details> |
-| **[ZK-SERIES: Privacy-Preserving Authentication using Temporal Biometric Data](http://arxiv.org/abs/2506.19393v1)** | 2025-06-24 |  |
-| **[Contrastive Cross-Modal Learning for Infusing Chest X-ray Knowledge into ECGs](http://arxiv.org/abs/2506.19329v1)** | 2025-06-24 |  |
-| **[Time-IMM: A Dataset and Benchmark for Irregular Multimodal Multivariate Time Series](http://arxiv.org/abs/2506.10412v2)** | 2025-06-23 | <details><summary>This ...</summary><p>This paper is currently under review</p></details> |
-| **[Agentic Information Theory: Ergodicity and Intrinsic Semantics of Information Processes](http://arxiv.org/abs/2505.19275v2)** | 2025-06-23 | <details><summary>26 pa...</summary><p>26 pages, 7 figures, 9 tables; http://csc.ucdavis.edu/~cmg/compmech/pubs/iprocesses.htm</p></details> |
-| **[From Rows to Yields: How Foundation Models for Tabular Data Simplify Crop Yield Prediction](http://arxiv.org/abs/2506.19046v1)** | 2025-06-23 |  |
-| **[Failure Modes of Time Series Interpretability Algorithms for Critical Care Applications and Potential Solutions](http://arxiv.org/abs/2506.19035v1)** | 2025-06-23 | <details><summary>13 pa...</summary><p>13 pages, 10 figures, Accepted at the AMIA Annual Symposium 2025. The final version will appear in the official proceedings</p></details> |
-| **[A Reliable Framework for Human-in-the-Loop Anomaly Detection in Time Series](http://arxiv.org/abs/2405.03234v4)** | 2025-06-23 | <details><summary>The m...</summary><p>The manuscript is currently under review</p></details> |
-| **[EXPRTS: Exploring and Probing the Robustness ofTime Series Forecasting Models](http://arxiv.org/abs/2403.03508v2)** | 2025-06-23 | under review |
-| **[TAMMs: Temporal-Aware Multimodal Model for Satellite Image Change Understanding and Forecasting](http://arxiv.org/abs/2506.18862v1)** | 2025-06-23 | <details><summary>Submi...</summary><p>Submitted to the 33rd ACM International Conference on Multimedia. Our dataset can be found at https://huggingface.co/datasets/IceInPot/TAMMs</p></details> |
+| **[Benchmarking Unsupervised Strategies for Anomaly Detection in Multivariate Time Series](http://arxiv.org/abs/2506.20574v1)** | 2025-06-25 | <details><summary>Submi...</summary><p>Submitted to VLDB 2026 conference, currently under review</p></details> |
+| **[WattsOnAI: Measuring, Analyzing, and Visualizing Energy and Carbon Footprint of AI Workloads](http://arxiv.org/abs/2506.20535v1)** | 2025-06-25 | <details><summary>11 pa...</summary><p>11 pages, 7 figures and 5 tables</p></details> |
+| **[Off-Policy Evaluation and Learning for the Future under Non-Stationarity](http://arxiv.org/abs/2506.20417v1)** | 2025-06-25 |  |
+| **[A Visualization Framework for Exploring Multi-Agent-Based Simulations Case Study of an Electric Vehicle Home Charging Ecosystem](http://arxiv.org/abs/2506.20400v1)** | 2025-06-25 |  |
+| **[TESSERA: Temporal Embeddings of Surface Spectra for Earth Representation and Analysis](http://arxiv.org/abs/2506.20380v1)** | 2025-06-25 |  |
+| **[A foundation model with multi-variate parallel attention to generate neuronal activity](http://arxiv.org/abs/2506.20354v1)** | 2025-06-25 | <details><summary>The c...</summary><p>The code is available at https://github.com/IBM/multi-variate-parallel-transformer. The SWEC iEEG dataset is available at https://mb-neuro.medical-blocks.ch/public_access/databases/ieeg/swec_ieeg</p></details> |
+| **[On the ability of Deep Neural Networks to Learn Granger Causality in Multi-Variate Time Series Data](http://arxiv.org/abs/2506.20347v1)** | 2025-06-25 |  |
+| **[Time-series surrogates from energy consumers generated by machine learning approaches for long-term forecasting scenarios](http://arxiv.org/abs/2506.20253v1)** | 2025-06-25 |  |
+| **[MS-TVNet:A Long-Term Time Series Prediction Method Based on Multi-Scale Dynamic Convolution](http://arxiv.org/abs/2506.17253v2)** | 2025-06-25 |  |
+| **[SEED: A Structural Encoder for Embedding-Driven Decoding in Time Series Prediction with LLMs](http://arxiv.org/abs/2506.20167v1)** | 2025-06-25 |  |
+| **[TSPulse: Dual Space Tiny Pre-Trained Models for Rapid Time-Series Analysis](http://arxiv.org/abs/2505.13033v2)** | 2025-06-25 |  |
+| **[ITFormer: Bridging Time Series and Natural Language for Multi-Modal QA with Large-Scale Multitask Dataset](http://arxiv.org/abs/2506.20093v1)** | 2025-06-25 |  |
+| **[DIM-SUM: Dynamic IMputation for Smart Utility Management](http://arxiv.org/abs/2506.20023v1)** | 2025-06-24 |  |
+| **[Neuromorphic Wireless Split Computing with Resonate-and-Fire Neurons](http://arxiv.org/abs/2506.20015v1)** | 2025-06-24 |  |
+| **[Scalable Machine Learning Algorithms using Path Signatures](http://arxiv.org/abs/2506.17634v2)** | 2025-06-24 | PhD thesis |
 
