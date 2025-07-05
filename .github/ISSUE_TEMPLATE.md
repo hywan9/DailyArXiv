@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 03, 2025
+title: Latest 15 Papers - July 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ke1ewang/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,19 +7,19 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Meta-Posterior Consistency for the Bayesian Inference of Metastable System](http://arxiv.org/abs/2408.01868v2)** | 2025-07-01 | 32 pages, 3 figures |
-| **[LangTime: A Language-Guided Unified Model for Time Series Forecasting with Proximal Policy Optimization](http://arxiv.org/abs/2503.08271v2)** | 2025-07-01 |  |
-| **[Over the Stability Space of a Multivariate Time Series](http://arxiv.org/abs/2506.22407v2)** | 2025-07-01 | <details><summary>31 pa...</summary><p>31 pages, 7 figures, 6 tables</p></details> |
-| **[Towards Efficient Parametric State Estimation in Circulating Fuel Reactors with Shallow Recurrent Decoder Networks](http://arxiv.org/abs/2503.08904v2)** | 2025-07-01 |  |
-| **[Teaching Time Series to See and Speak: Forecasting with Aligned Visual and Textual Perspectives](http://arxiv.org/abs/2506.24124v2)** | 2025-07-01 | <details><summary>Code:...</summary><p>Code: https://github.com/Ironieser/TimesCLIP</p></details> |
-| **[Identifying Systems with Symmetries using Equivariant Autoregressive Reservoir Computers](http://arxiv.org/abs/2311.09511v3)** | 2025-06-30 | <details><summary>The v...</summary><p>The views expressed in the article do not necessarily represent the views of the National Commission of Banks and Insurance Companies of Honduras</p></details> |
-| **[Constructing Non-Markovian Decision Process via History Aggregator](http://arxiv.org/abs/2506.24026v1)** | 2025-06-30 |  |
-| **[Online model learning with data-assimilated reservoir computers](http://arxiv.org/abs/2504.16767v2)** | 2025-06-30 | 8 pages, 5 figures |
-| **[When Will It Fail?: Anomaly to Prompt for Forecasting Future Anomalies in Time Series](http://arxiv.org/abs/2506.23596v1)** | 2025-06-30 | <details><summary>18 pa...</summary><p>18 pages, 10 figures, 12 tables, ICML 2025</p></details> |
-| **[Bridging Subjective and Objective QoE: Operator-Level Aggregation Using LLM-Based Comment Analysis and Network MOS Comparison](http://arxiv.org/abs/2506.00924v2)** | 2025-06-30 | <details><summary>19 pp...</summary><p>19 ppages, 13 figures</p></details> |
-| **[Accurate Parameter-Efficient Test-Time Adaptation for Time Series Forecasting](http://arxiv.org/abs/2506.23424v1)** | 2025-06-29 | <details><summary>Secon...</summary><p>Second Workshop on Test-Time Adaptation: Putting Updates to the Test! at ICML 2025, Vancouver, Canada. 2025</p></details> |
-| **[Deep Multi-Manifold Transformation Based Multivariate Time Series Fault Detection](http://arxiv.org/abs/2405.16258v2)** | 2025-06-29 | <details><summary>11 pa...</summary><p>11 pages, 7 figures, accepted by TNNLS</p></details> |
-| **[Automating Versatile Time-Series Analysis with Tiny Transformers on Embedded FPGAs](http://arxiv.org/abs/2505.17662v4)** | 2025-06-29 | <details><summary>6 pag...</summary><p>6 pages, 5 figures, 1 table, accepted by IEEE Computer Society Annual Symposium on VLSI (ISVLSI 2025)</p></details> |
-| **[maneuverRecognition -- A Python package for Timeseries Classification in the domain of Vehicle Telematics](http://arxiv.org/abs/2506.23147v1)** | 2025-06-29 | 6 pages, 2 figures |
-| **[TyphoFormer: Language-Augmented Transformer for Accurate Typhoon Track Forecasting](http://arxiv.org/abs/2506.17609v2)** | 2025-06-29 | Short research paper |
+| **[Ridge Regression for Manifold-valued Time-Series with Application to Meteorological Forecast](http://arxiv.org/abs/2411.18339v2)** | 2025-07-03 |  |
+| **[Orientation-Aware Sparse Tensor PCA for Efficient Unsupervised Feature Selection](http://arxiv.org/abs/2407.16985v3)** | 2025-07-03 |  |
+| **[Adaptive Probabilistic ODE Solvers Without Adaptive Memory Requirements](http://arxiv.org/abs/2410.10530v2)** | 2025-07-03 |  |
+| **[DUST: A Duality-Based Pruning Method For Exact Multiple Change-Point Detection](http://arxiv.org/abs/2507.02467v1)** | 2025-07-03 |  |
+| **[Assembling ensembling: An adventure in approaches across disciplines](http://arxiv.org/abs/2405.02599v2)** | 2025-07-03 | 34 pages, 4 figures |
+| **[Gateformer: Advancing Multivariate Time Series Forecasting through Temporal and Variate-Wise Attention with Gated Representations](http://arxiv.org/abs/2505.00307v3)** | 2025-07-03 | <details><summary>Accep...</summary><p>Accepted at ICML Workshop on Foundation Models for Structured Data</p></details> |
+| **[Tensor-product interactions in Markov-switching models](http://arxiv.org/abs/2507.01555v2)** | 2025-07-03 |  |
+| **[DeltaSHAP: Explaining Prediction Evolutions in Online Patient Monitoring with Shapley Values](http://arxiv.org/abs/2507.02342v1)** | 2025-07-03 | <details><summary>Accep...</summary><p>Accepted to ICML 2025 Workshop on Actionable Interpretability. Code is available at https://github.com/AITRICS/DeltaSHAP</p></details> |
+| **[CineMyoPS: Segmenting Myocardial Pathologies from Cine Cardiac MR](http://arxiv.org/abs/2507.02289v1)** | 2025-07-03 |  |
+| **[Multivariate de Bruijn Graphs: A Symbolic Graph Framework for Time Series Forecasting](http://arxiv.org/abs/2505.22768v3)** | 2025-07-03 |  |
+| **[Generating Hypotheses of Dynamic Causal Graphs in Neuroscience: Leveraging Generative Factor Models of Observed Time Series](http://arxiv.org/abs/2505.20697v3)** | 2025-07-02 |  |
+| **[Identifying Systems with Symmetries using Equivariant Autoregressive Reservoir Computers](http://arxiv.org/abs/2311.09511v4)** | 2025-07-02 | <details><summary>The v...</summary><p>The views expressed in the article do not necessarily represent the views of the National Commission of Banks and Insurance Companies of Honduras</p></details> |
+| **[Characterizing control between interacting subsystems with deep Jacobian estimation](http://arxiv.org/abs/2507.01946v1)** | 2025-07-02 | 10 pages, 6 figures |
+| **[Towards Foundation Auto-Encoders for Time-Series Anomaly Detection](http://arxiv.org/abs/2507.01875v1)** | 2025-07-02 | <details><summary>Prese...</summary><p>Presented at ACM KDD 2024, MiLeTS 2024 Workshop, August 25, 2024, Barcelona, Spain</p></details> |
+| **[Modeling the Deterioration of Pavement Skid Resistance and Surface Texture After Preventive Maintenance](http://arxiv.org/abs/2507.01842v1)** | 2025-07-02 |  |
 
