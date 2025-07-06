@@ -1,8 +1,10 @@
 name: Update daily papers
 
 on:
-  repository_dispatch:
-    types: [ cron_trigger ]
+  schedule:
+    - cron: "0 16 * * *" # UTC+8 time zone
+  #  repository_dispatch:
+  #    types: [ cron_trigger ]
   workflow_dispatch:
 
 permissions:
