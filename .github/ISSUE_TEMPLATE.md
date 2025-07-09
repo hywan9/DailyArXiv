@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 09, 2025
+title: Latest 15 Papers - July 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ke1ewang/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,19 +7,19 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Bridging Expressivity and Scalability with Adaptive Unitary SSMs](http://arxiv.org/abs/2507.05238v1)** | 2025-07-07 |  |
-| **[Can Local Representation Alignment RNNs Solve Temporal Tasks?](http://arxiv.org/abs/2504.13531v2)** | 2025-07-07 | <details><summary>This ...</summary><p>This is the version of the paper presented at ICCSM 2025 (July 2025 in Rome, Italy). No major changes in the content, but it uses a different LaTeX template and formatting</p></details> |
-| **[Monitoring for a Phase Transition in a Time Series of Wigner Matrices](http://arxiv.org/abs/2507.04983v1)** | 2025-07-07 |  |
-| **[Quantifying Robustness: A Benchmarking Framework for Deep Learning Forecasting in Cyber-Physical Systems](http://arxiv.org/abs/2504.03494v2)** | 2025-07-07 | <details><summary>Accep...</summary><p>Accepted at the 30th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA)</p></details> |
-| **[A Novel Approach for Estimating Positive Lyapunov Exponents in One-Dimensional Chaotic Time Series Using Machine Learning](http://arxiv.org/abs/2507.04868v1)** | 2025-07-07 | <details><summary>14 pa...</summary><p>14 pages, 3 figures, 2 Tables, 10 Equations</p></details> |
-| **[Data Matters: The Case of Predicting Mobile Cellular Traffic](http://arxiv.org/abs/2411.02418v2)** | 2025-07-07 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 5 tables</p></details> |
-| **[DisMS-TS: Eliminating Redundant Multi-Scale Features for Time Series Classification](http://arxiv.org/abs/2507.04600v1)** | 2025-07-07 | <details><summary>This ...</summary><p>This paper has been accepted for presentation at the ACM International Conference on Multimedia (ACM MM 2025)</p></details> |
-| **[Surrogate modeling with functional nonlinear autoregressive models (F-NARX)](http://arxiv.org/abs/2410.07293v2)** | 2025-07-06 |  |
-| **[DC-Mamber: A Dual Channel Prediction Model based on Mamba and Linear Transformer for Multivariate Time Series Forecasting](http://arxiv.org/abs/2507.04381v1)** | 2025-07-06 |  |
-| **[Structural Classification of Locally Stationary Time Series Based on Second-order Characteristics](http://arxiv.org/abs/2507.04237v1)** | 2025-07-06 | 41 Pages, 4 Figures |
-| **[skfolio: Portfolio Optimization in Python](http://arxiv.org/abs/2507.04176v1)** | 2025-07-05 | 7 pages |
-| **[Generative Regression with IQ-BART](http://arxiv.org/abs/2507.04168v1)** | 2025-07-05 | 48 pages, 7 figures |
-| **[Model selection for stochastic dynamics: a parsimonious and principled approach](http://arxiv.org/abs/2507.04121v1)** | 2025-07-05 | <details><summary>PhD t...</summary><p>PhD thesis, 201 pages, 29 figures. Defended at the University of Aix-Marseille on July 1, 2025. Supervised by Dr. Pierre Ronceray</p></details> |
-| **[Forecasting the U.S. Renewable-Energy Mix with an ALR-BDARMA Compositional Time-Series Framework](http://arxiv.org/abs/2507.04087v1)** | 2025-07-05 |  |
-| **[Time Distributed Deep Learning Models for Purely Exogenous Forecasting: Application to Water Table Depth Prediction using Weather Image Time Series](http://arxiv.org/abs/2409.13284v2)** | 2025-07-05 |  |
+| **[Forecasting the U.S. Renewable-Energy Mix with an ALR-BDARMA Compositional Time-Series Framework](http://arxiv.org/abs/2507.04087v2)** | 2025-07-08 |  |
+| **[AI-Based Demand Forecasting and Load Balancing for Optimising Energy use in Healthcare Systems: A real case study](http://arxiv.org/abs/2507.06077v1)** | 2025-07-08 |  |
+| **[KnowIt: Deep Time Series Modeling and Interpretation](http://arxiv.org/abs/2507.06009v1)** | 2025-07-08 |  |
+| **[DRAN: A Distribution and Relation Adaptive Network for Spatio-temporal Forecasting](http://arxiv.org/abs/2504.01531v2)** | 2025-07-08 | 15 pages, 10 figures |
+| **[skfolio: Portfolio Optimization in Python](http://arxiv.org/abs/2507.04176v2)** | 2025-07-08 | 7 pages |
+| **[Deep learning from strongly mixing observations: Sparse-penalized regularization and minimax optimality](http://arxiv.org/abs/2406.08321v2)** | 2025-07-08 |  |
+| **[Decomposing the Time Series Forecasting Pipeline: A Modular Approach for Time Series Representation, Information Extraction, and Projection](http://arxiv.org/abs/2507.05891v1)** | 2025-07-08 |  |
+| **[Predicting Graph Structure via Adapted Flux Balance Analysis](http://arxiv.org/abs/2507.05806v1)** | 2025-07-08 | <details><summary>exten...</summary><p>extended and revised version of arXiv:2401.04280</p></details> |
+| **[Sparsity-Promoting Dynamic Mode Decomposition Applied to Sea Surface Temperature Fields](http://arxiv.org/abs/2507.05711v1)** | 2025-07-08 | 9 pages |
+| **[KAN-AD: Time Series Anomaly Detection with Kolmogorov-Arnold Networks](http://arxiv.org/abs/2411.00278v3)** | 2025-07-08 | 11 pages, ICML 2025 |
+| **[Unifying Explainable Anomaly Detection and Root Cause Analysis in Dynamical Systems](http://arxiv.org/abs/2502.12086v2)** | 2025-07-08 | <details><summary>Accep...</summary><p>Accepted by the AAAI-25 Workshop on Artificial Intelligence for Cyber Security (AICS)</p></details> |
+| **[LATST: Are Transformers Necessarily Complex for Time-Series Forecasting](http://arxiv.org/abs/2410.23749v9)** | 2025-07-08 | <details><summary>8 pag...</summary><p>8 pages with referencing, 1 figure, 5 tables</p></details> |
+| **[Regularized Estimation of the Loading Matrix in Factor Models for High-Dimensional Time Series](http://arxiv.org/abs/2506.11232v2)** | 2025-07-07 |  |
+| **[Temporal Conformal Prediction (TCP): A Distribution-Free Statistical and Machine Learning Framework for Adaptive Risk Forecasting](http://arxiv.org/abs/2507.05470v1)** | 2025-07-07 |  |
+| **[A Bayesian workflow for securitizing casualty insurance risk](http://arxiv.org/abs/2407.14666v3)** | 2025-07-07 | 41 pages, 12 figures |
 
