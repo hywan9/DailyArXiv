@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 15, 2025
+title: Latest 15 Papers - July 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ke1ewang/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,19 +7,19 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Adaptive Nonlinear Vector Autoregression: Robust Forecasting for Noisy Chaotic Time Series](http://arxiv.org/abs/2507.08738v1)** | 2025-07-11 | 15 pages, 10 figures |
-| **[To Trade or Not to Trade: An Agentic Approach to Estimating Market Risk Improves Trading Decisions](http://arxiv.org/abs/2507.08584v1)** | 2025-07-11 | <details><summary>31 pa...</summary><p>31 pages, 7 figures, 3 tables</p></details> |
-| **[Communities in the Kuramoto Model: Dynamics and Detection via Path Signatures](http://arxiv.org/abs/2503.17546v3)** | 2025-07-11 | 56 pages, 21 figures |
-| **[DRAN: A Distribution and Relation Adaptive Network for Spatio-temporal Forecasting](http://arxiv.org/abs/2504.01531v3)** | 2025-07-11 | 15 pages, 10 figures |
-| **[Galerkin-ARIMA: A Two-Stage Polynomial Regression Framework for Fast Rolling One-Step-Ahead Forecasting](http://arxiv.org/abs/2507.07469v2)** | 2025-07-11 |  |
-| **[A Survey on State-of-the-art Deep Learning Applications and Challenges](http://arxiv.org/abs/2403.17561v8)** | 2025-07-11 | <details><summary>Docum...</summary><p>Document updated to two-column formatting. This manuscript has been accepted for publication in Engineering Applications of Artificial Intelligence (Elsevier)</p></details> |
-| **[A Bayesian framework for change-point detection with uncertainty quantification](http://arxiv.org/abs/2507.01558v2)** | 2025-07-10 |  |
-| **[State Estimation Using Sparse DEIM and Recurrent Neural Networks](http://arxiv.org/abs/2410.15982v2)** | 2025-07-10 |  |
-| **[Scientific Machine Learning of Chaotic Systems Discovers Governing Equations for Neural Populations](http://arxiv.org/abs/2507.03631v2)** | 2025-07-10 | 46 pages, 9 figures |
-| **[DUST: A Duality-Based Pruning Method For Exact Multiple Change-Point Detection](http://arxiv.org/abs/2507.02467v2)** | 2025-07-10 |  |
-| **[PIAD-SRNN: Physics-Informed Adaptive Decomposition in State-Space RNN](http://arxiv.org/abs/2412.00994v2)** | 2025-07-10 |  |
-| **[No $D_{\text{train}}$: Model-Agnostic Counterfactual Explanations Using Reinforcement Learning](http://arxiv.org/abs/2405.18563v2)** | 2025-07-10 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (TMLR 2025)</p></details> |
-| **[Efficient Causal Discovery for Autoregressive Time Series](http://arxiv.org/abs/2507.07898v1)** | 2025-07-10 | 10 pages, 8 figures |
-| **[On the capabilities of LLMs for classifying and segmenting time series of fruit picking motions into primitive actions](http://arxiv.org/abs/2507.07745v1)** | 2025-07-10 | <details><summary>This ...</summary><p>This paper is a Late Breaking Results report and it will be presented through a poster at the 34th IEEE International Conference on Robot and Human Interactive Communication (ROMAN), 2025 at Eindhoven, the Netherlands</p></details> |
-| **[Action Unit Enhance Dynamic Facial Expression Recognition](http://arxiv.org/abs/2507.07678v1)** | 2025-07-10 |  |
+| **[TAT: Temporal-Aligned Transformer for Multi-Horizon Peak Demand Forecasting](http://arxiv.org/abs/2507.10349v1)** | 2025-07-14 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 7 tables, published at KDD 2025 workshop on AI for Supply Chain: Today and Future</p></details> |
+| **[MoCap-Impute: A Comprehensive Benchmark and Comparative Analysis of Imputation Methods for IMU-based Motion Capture Data](http://arxiv.org/abs/2507.10334v1)** | 2025-07-14 | <details><summary>22 pa...</summary><p>22 pages, 7 figures, 3 algorithms, 2 tables</p></details> |
+| **[TKAN: Temporal Kolmogorov-Arnold Networks](http://arxiv.org/abs/2405.07344v4)** | 2025-07-14 |  |
+| **[Wavelet-Enhanced Neural ODE and Graph Attention for Interpretable Energy Forecasting](http://arxiv.org/abs/2507.10132v1)** | 2025-07-14 |  |
+| **[Fusing Large Language Models with Temporal Transformers for Time Series Forecasting](http://arxiv.org/abs/2507.10098v1)** | 2025-07-14 |  |
+| **[A Vector-Quantized Foundation Model for Patient Behavior Monitoring](http://arxiv.org/abs/2503.15221v2)** | 2025-07-14 | <details><summary>10 pa...</summary><p>10 pages (32 with references and supplementary material). Submitted to IEEE Journal of Biomedical and Health Informatics</p></details> |
+| **[Predicting Graph Structure via Adapted Flux Balance Analysis](http://arxiv.org/abs/2507.05806v2)** | 2025-07-14 | <details><summary>exten...</summary><p>extended and revised version of arXiv:2401.04280</p></details> |
+| **[Volume-Based Space-Time Cube for Large-Scale Continuous Spatial Time Series](http://arxiv.org/abs/2507.09917v1)** | 2025-07-14 |  |
+| **[Solving dynamic portfolio selection problems via score-based diffusion models](http://arxiv.org/abs/2507.09916v1)** | 2025-07-14 | <details><summary>Code ...</summary><p>Code available on https://github.com/fy-yuan/diffusion_dynamic_mv</p></details> |
+| **[NeuTSFlow: Modeling Continuous Functions Behind Time Series Forecasting](http://arxiv.org/abs/2507.09888v1)** | 2025-07-14 |  |
+| **[Bridging the Last Mile of Prediction: Enhancing Time Series Forecasting with Conditional Guided Flow Matching](http://arxiv.org/abs/2507.07192v2)** | 2025-07-14 |  |
+| **[Bridging Neural Networks and Dynamic Time Warping for Adaptive Time Series Classification](http://arxiv.org/abs/2507.09826v1)** | 2025-07-13 |  |
+| **[Interpretable Time Series Autoregression for Periodicity Quantification](http://arxiv.org/abs/2506.22895v2)** | 2025-07-13 |  |
+| **[Knowledge-Augmented Multimodal Clinical Rationale Generation for Disease Diagnosis with Small Language Models](http://arxiv.org/abs/2411.07611v5)** | 2025-07-13 | 13 pages. 7 figures |
+| **[Evaluating the Role of Training Data Origin for Country-Scale Cropland Mapping in Data-Scarce Regions: A Case Study of Nigeria](http://arxiv.org/abs/2312.10872v2)** | 2025-07-13 | <details><summary>This ...</summary><p>This article is published in ISPRS Open Journal of Photogrammetry and Remote Sensing under a CC BY 4.0 license: https://www.sciencedirect.com/science/article/pii/S2667393225000109. Code repository: https://github.com/Joaquin-Gajardo/nigeria-crop-mask</p></details> |
 
