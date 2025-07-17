@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 17, 2025
+title: Latest 15 Papers - July 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ke1ewang/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,19 +7,19 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Exploring and Analyzing Wildland Fire Data Via Machine Learning Techniques](http://arxiv.org/abs/2311.05128v2)** | 2025-07-16 | <details><summary>This ...</summary><p>This version has been significantly updated and superseded by a more complete and revised version under the new title "Leveraging Advanced Machine Learning to Predict Turbulence Dynamics from Temperature Observations at an Experimental Prescribed Fire", available at arXiv ID: arXiv:2507.11012</p></details> |
+| **[Forecasting Climate Policy Uncertainty: Evidence from the United States](http://arxiv.org/abs/2507.12276v1)** | 2025-07-16 |  |
+| **[Robust Causal Discovery in Real-World Time Series with Power-Laws](http://arxiv.org/abs/2507.12257v1)** | 2025-07-16 |  |
+| **[NeuTSFlow: Modeling Continuous Functions Behind Time Series Forecasting](http://arxiv.org/abs/2507.09888v2)** | 2025-07-16 |  |
+| **[Data Augmentation in Time Series Forecasting through Inverted Framework](http://arxiv.org/abs/2507.11439v2)** | 2025-07-16 | <details><summary>The p...</summary><p>The paper is under consideration at Pattern Recognition Letters</p></details> |
+| **[BRIDGE: Bootstrapping Text to Control Time-Series Generation via Multi-Agent Iterative Optimization and Diffusion Modeling](http://arxiv.org/abs/2503.02445v5)** | 2025-07-16 | <details><summary>ICML ...</summary><p>ICML 2025 Main Conference</p></details> |
+| **[Bootstrap prediction intervals for the age distribution of life-table death counts](http://arxiv.org/abs/2507.11946v1)** | 2025-07-16 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 1 table</p></details> |
+| **[Finding Order-Preserving Subgraphs](http://arxiv.org/abs/2507.11115v2)** | 2025-07-16 |  |
+| **[Sparse Identification of Nonlinear Dynamics with Conformal Prediction](http://arxiv.org/abs/2507.11739v1)** | 2025-07-15 |  |
+| **[Globalization for Scalable Short-term Load Forecasting](http://arxiv.org/abs/2507.11729v1)** | 2025-07-15 | <details><summary>63 pa...</summary><p>63 pages with 22 figures</p></details> |
+| **[Time series classification of satellite data using LSTM networks: an approach for predicting leaf-fall to minimize railroad traffic disruption](http://arxiv.org/abs/2507.11702v1)** | 2025-07-15 |  |
+| **[Learning Representations of Event Time Series with Sparse Autoencoders for Anomaly Detection, Similarity Search, and Unsupervised Classification](http://arxiv.org/abs/2507.11620v1)** | 2025-07-15 | <details><summary>Accep...</summary><p>Accepted at the 2025 ICML Workshop on Machine Learning for Astrophysics, Code available at: https://github.com/StevenDillmann/ml-xraytransients-mnras</p></details> |
 | **[D3FL: Data Distribution and Detrending for Robust Federated Learning in Non-linear Time-series Data](http://arxiv.org/abs/2507.11471v1)** | 2025-07-15 | <details><summary>Prepr...</summary><p>Preprint of paper to appear in the proceedings of IEEE INTERNATIONAL CONFERENCE ON EDGE COMPUTING & COMMUNICATIONS EDGE 2025</p></details> |
-| **[Data Augmentation in Time Series Forecasting through Inverted Framework](http://arxiv.org/abs/2507.11439v1)** | 2025-07-15 |  |
 | **[Matrix Is All You Need](http://arxiv.org/abs/2506.01966v2)** | 2025-07-15 |  |
 | **[Self-Supervised Cross-Modal Text-Image Time Series Retrieval in Remote Sensing](http://arxiv.org/abs/2501.19043v2)** | 2025-07-15 |  |
-| **[Contrast All the Time: Learning Time Series Representation from Temporal Consistency](http://arxiv.org/abs/2410.15416v2)** | 2025-07-15 | <details><summary>Publi...</summary><p>Published in the 28th European Conference on AI (ECAI), October 2025</p></details> |
-| **[Extropy Rate: Properties and Application in Feature Selection](http://arxiv.org/abs/2507.11242v1)** | 2025-07-15 |  |
-| **[Gradient Regularization-based Neural Granger Causality](http://arxiv.org/abs/2507.11178v1)** | 2025-07-15 | <details><summary>9 pag...</summary><p>9 pages,3 figures, conference</p></details> |
-| **[Joint semi-parametric INAR bootstrap inference for model coefficients and innovation distribution](http://arxiv.org/abs/2507.11124v1)** | 2025-07-15 | <details><summary>64 pa...</summary><p>64 pages, 2 figures, 26 tables</p></details> |
-| **[TAB: Unified Benchmarking of Time Series Anomaly Detection Methods](http://arxiv.org/abs/2506.18046v2)** | 2025-07-15 | <details><summary>Accep...</summary><p>Accepted by PVLDB2025</p></details> |
-| **[Finding Order-Preserving Subgraphs](http://arxiv.org/abs/2507.11115v1)** | 2025-07-15 |  |
-| **[Solar Flare Prediction Using Long Short-term Memory (LSTM) and Decomposition-LSTM with Sliding Window Pattern Recognition](http://arxiv.org/abs/2507.05313v2)** | 2025-07-15 | <details><summary>Publi...</summary><p>Published in the Astrophysical Journal Supplement Series, volume 279, 2025, DOI: 10.3847/1538-4365/addc73</p></details> |
-| **[Patch-wise Structural Loss for Time Series Forecasting](http://arxiv.org/abs/2503.00877v2)** | 2025-07-15 |  |
-| **[SimAD: A Simple Dissimilarity-based Approach for Time Series Anomaly Detection](http://arxiv.org/abs/2405.11238v2)** | 2025-07-15 | <details><summary>24 pa...</summary><p>24 pages, 12 figures,11 tables</p></details> |
-| **[Forecasting intermittent time series with Gaussian Processes and Tweedie likelihood](http://arxiv.org/abs/2502.19086v4)** | 2025-07-14 | Under review |
-| **[Detecting AI Assistance in Abstract Complex Tasks](http://arxiv.org/abs/2507.10761v1)** | 2025-07-14 | <details><summary>Accep...</summary><p>Accepted to HCII 2025</p></details> |
 
