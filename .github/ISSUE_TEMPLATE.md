@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 22, 2025
+title: Latest 15 Papers - July 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ke1ewang/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,19 +7,19 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Bayesian Dirichlet Auto-Regressive Conditional Heteroskedasticity Model for Compositional Time Series](http://arxiv.org/abs/2507.14132v1)** | 2025-07-18 |  |
-| **[Toward Temporal Causal Representation Learning with Tensor Decomposition](http://arxiv.org/abs/2507.14126v1)** | 2025-07-18 |  |
-| **[Towards Practical Operation of Deep Reinforcement Learning Agents in Real-World Network Management at Open RAN Edges](http://arxiv.org/abs/2410.23086v2)** | 2025-07-18 |  |
-| **[ParallelTime: Dynamically Weighting the Balance of Short- and Long-Term Temporal Dependencies](http://arxiv.org/abs/2507.13998v1)** | 2025-07-18 |  |
-| **[GRAM-MAMBA: Holistic Feature Alignment for Wireless Perception with Adaptive Low-Rank Compensation](http://arxiv.org/abs/2507.13803v1)** | 2025-07-18 |  |
-| **[Pseudo-variance quasi-maximum likelihood estimation of semi-parametric time series models](http://arxiv.org/abs/2309.06100v2)** | 2025-07-18 | <details><summary>Publi...</summary><p>Published in Journal of Econometrics</p></details> |
-| **[Two-stage weighted least squares estimator of multivariate non-negative observation-driven models](http://arxiv.org/abs/2310.13487v2)** | 2025-07-18 | <details><summary>To ap...</summary><p>To appear in Econometrics and Statistics</p></details> |
-| **[Feature Engineering is Not Dead: Reviving Classical Machine Learning with Entropy, HOG, and LBP Feature Fusion for Image Classification](http://arxiv.org/abs/2507.13772v1)** | 2025-07-18 |  |
-| **[MoTM: Towards a Foundation Model for Time Series Imputation based on Continuous Modeling](http://arxiv.org/abs/2507.13207v2)** | 2025-07-18 | <details><summary>10th ...</summary><p>10th Workshop on Advanced Analytics and Learning on Temporal Data (AALTD), ECML 2025</p></details> |
-| **[Kolmogorov-Arnold Networks-based GRU and LSTM for Loan Default Early Prediction](http://arxiv.org/abs/2507.13685v1)** | 2025-07-18 |  |
-| **[Time Series Forecastability Measures](http://arxiv.org/abs/2507.13556v1)** | 2025-07-17 |  |
-| **[SCOPE for Hexapod Gait Generation](http://arxiv.org/abs/2507.13539v1)** | 2025-07-17 | <details><summary>IJCCI...</summary><p>IJCCI Conference on Evolutionary Computation and Theory and Applications, 2025</p></details> |
-| **[Sugar-Beet Stress Detection using Satellite Image Time Series](http://arxiv.org/abs/2507.13514v1)** | 2025-07-17 |  |
-| **[Multiresolution local smoothness detection in non-uniformly sampled multivariate signals](http://arxiv.org/abs/2507.13480v1)** | 2025-07-17 |  |
-| **[Model-Agnostic, Temperature-Informed Sampling Enhances Cross-Year Crop Mapping with Deep Learning](http://arxiv.org/abs/2506.12885v3)** | 2025-07-17 | under review |
+| **[Spectral Differential Network Analysis for High-Dimensional Time Series](http://arxiv.org/abs/2412.07905v2)** | 2025-07-21 | <details><summary>23 pa...</summary><p>23 pages, 13 figures, AISTATS 2025</p></details> |
+| **[Hypergraphs on high dimensional time series sets using signature transform](http://arxiv.org/abs/2507.15802v1)** | 2025-07-21 | <details><summary>Accep...</summary><p>Accepted at GSI25 conference. Pending publication in Springer proceedings</p></details> |
+| **[Dynamics is what you need for time-series forecasting!](http://arxiv.org/abs/2507.15774v1)** | 2025-07-21 | <details><summary>13 pa...</summary><p>13 pages, 6 figures, 1 table</p></details> |
+| **[SigSPARQL: Signals as a First-Class Citizen When Querying Knowledge Graphs](http://arxiv.org/abs/2506.03826v2)** | 2025-07-21 |  |
+| **[Dictionary-Learning-Based Data Pruning for System Identification](http://arxiv.org/abs/2502.11484v2)** | 2025-07-21 |  |
+| **[Prediction of linear fractional stable motions using codifference](http://arxiv.org/abs/2507.15437v1)** | 2025-07-21 |  |
+| **[Central limit theory for Peaks-over-Threshold partial sums of long memory linear time series](http://arxiv.org/abs/2506.20789v2)** | 2025-07-21 | 60 pages, 4 figures |
+| **[Log-Euclidean Frameworks for Smooth Brain Connectivity Trajectories](http://arxiv.org/abs/2507.15374v1)** | 2025-07-21 |  |
+| **[Variational Mode-Driven Graph Convolutional Network for Spatiotemporal Traffic Forecasting](http://arxiv.org/abs/2408.16191v3)** | 2025-07-21 | <details><summary>ACM T...</summary><p>ACM Transactions on Intelligent Systems and Technology (TIST) Submission, 2025</p></details> |
+| **[Preferential subspace identification (PSID) with forward-backward smoothing](http://arxiv.org/abs/2507.15288v1)** | 2025-07-21 | 17 pages, 5 figures |
+| **[Developing Cryptocurrency Trading Strategy Based on Autoencoder-CNN-GANs Algorithms](http://arxiv.org/abs/2412.18202v6)** | 2025-07-21 | <details><summary>The p...</summary><p>The paper was accepted by 2024 4th International Conference on Artificial Intelligence, Robotics, and Communication(ICAIRC 2024)</p></details> |
+| **[Solving dynamic portfolio selection problems via score-based diffusion models](http://arxiv.org/abs/2507.09916v2)** | 2025-07-21 | <details><summary>Code ...</summary><p>Code available on https://github.com/fy-yuan/diffusion_dynamic_mv. v2 addresses certain typos and small issues</p></details> |
+| **[Temporal Conformal Prediction (TCP): A Distribution-Free Statistical and Machine Learning Framework for Adaptive Risk Forecasting](http://arxiv.org/abs/2507.05470v2)** | 2025-07-21 |  |
+| **[CROSS-GAiT: Cross-Attention-Based Multimodal Representation Fusion for Parametric Gait Adaptation in Complex Terrains](http://arxiv.org/abs/2409.17262v3)** | 2025-07-20 |  |
+| **[Restrictions on Physical Stochastic Reservoir Computers](http://arxiv.org/abs/2307.14474v5)** | 2025-07-20 | 12 pages, 1 figure |
 
