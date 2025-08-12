@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 12, 2025
+title: Latest 15 Papers - August 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ke1ewang/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,19 +7,19 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Bayesian online collective anomaly and change point detection in fine-grained time series](http://arxiv.org/abs/2508.06385v1)** | 2025-08-08 |  |
-| **[iTFKAN: Interpretable Time Series Forecasting with Kolmogorov-Arnold Network](http://arxiv.org/abs/2504.16432v2)** | 2025-08-08 | <details><summary>Curre...</summary><p>Currently under review at IEEE Transactions on Knowledge and Data Engineering</p></details> |
-| **[Movement-Prediction-Adjusted Naive Forecast](http://arxiv.org/abs/2406.14469v9)** | 2025-08-08 |  |
-| **[Time-Prompt: Integrated Heterogeneous Prompts for Unlocking LLMs in Time Series Forecasting](http://arxiv.org/abs/2506.17631v2)** | 2025-08-08 |  |
-| **[CAMEF: Causal-Augmented Multi-Modality Event-Driven Financial Forecasting by Integrating Time Series Patterns and Salient Macroeconomic Announcements](http://arxiv.org/abs/2502.04592v3)** | 2025-08-08 | <details><summary>Accep...</summary><p>Accepted in SIGKDD 2025</p></details> |
-| **[Entropy Causal Graphs for Multivariate Time Series Anomaly Detection](http://arxiv.org/abs/2312.09478v2)** | 2025-08-08 | 25 pages, 8 figures |
-| **[A Time Series Model for Three Asset Classes used in Financial Simulator](http://arxiv.org/abs/2508.06010v1)** | 2025-08-08 | <details><summary>25 pa...</summary><p>25 pages, 7 figures, 13 tables</p></details> |
-| **[Trustworthy Pedestrian Trajectory Prediction via Pattern-Aware Interaction Modeling](http://arxiv.org/abs/2507.13397v2)** | 2025-08-08 |  |
-| **[Can Large Language Models Adequately Perform Symbolic Reasoning Over Time Series?](http://arxiv.org/abs/2508.03963v2)** | 2025-08-08 |  |
-| **[Dual Signal Decomposition of Stochastic Time Series](http://arxiv.org/abs/2508.05915v1)** | 2025-08-08 | <details><summary>21 pa...</summary><p>21 pages, 9 figures, 1 table</p></details> |
-| **[Holistic Explainable AI (H-XAI): Extending Transparency Beyond Developers in AI-Driven Decision Making](http://arxiv.org/abs/2508.05792v1)** | 2025-08-07 |  |
-| **[From Imperfect Signals to Trustworthy Structure: Confidence-Aware Inference from Heterogeneous and Reliability-Varying Utility Data](http://arxiv.org/abs/2508.05791v1)** | 2025-08-07 | 10 pages |
-| **[Discrepancy-Aware Contrastive Adaptation in Medical Time Series Analysis](http://arxiv.org/abs/2508.05572v1)** | 2025-08-07 | 10 pages |
-| **[Bayesian Gaussian Process ODEs via Double Normalizing Flows](http://arxiv.org/abs/2309.09222v3)** | 2025-08-07 |  |
-| **[EnergyPatchTST: Multi-scale Time Series Transformers with Uncertainty Estimation for Energy Forecasting](http://arxiv.org/abs/2508.05454v1)** | 2025-08-07 | <details><summary>Accep...</summary><p>Accepted for publication at the International Conference on Intelligent Computing (ICIC 2025). 12 pages. The final authenticated version is published in the Lecture Notes in Computer Science (LNCS) series, vol 15860, and is available online. This is the author's version of the work submitted for peer review</p></details> |
+| **[Rethinking Irregular Time Series Forecasting: A Simple yet Effective Baseline](http://arxiv.org/abs/2505.11250v3)** | 2025-08-11 |  |
+| **[ME-TST+: Micro-expression Analysis via Temporal State Transition with ROI Relationship Awareness](http://arxiv.org/abs/2508.08082v1)** | 2025-08-11 |  |
+| **[Optimizing Federated Learning for Scalable Power-demand Forecasting in Microgrids](http://arxiv.org/abs/2508.08022v1)** | 2025-08-11 |  |
+| **[Frequency-Domain Analysis of Time-Dependent Multiomic Data in Progressive Neurodegenerative Diseases: A Proposed Quantum-Classical Hybrid Approach with Quaternionic Extensions](http://arxiv.org/abs/2508.07948v1)** | 2025-08-11 | 11 pages, 1 figure |
+| **[Winner-takes-all for Multivariate Probabilistic Time Series Forecasting](http://arxiv.org/abs/2506.05515v2)** | 2025-08-11 | ICML 2025 |
+| **[Adaptive Fine-Tuning via Pattern Specialization for Deep Time Series Forecasting](http://arxiv.org/abs/2508.07927v1)** | 2025-08-11 |  |
+| **[Adding structure to generalized additive models, with applications in ecology](http://arxiv.org/abs/2508.07915v1)** | 2025-08-11 | <details><summary>Suppl...</summary><p>Supplementary material will be posted online once data access agreements are in place</p></details> |
+| **[Liquid Resistance Liquid Capacitance Networks](http://arxiv.org/abs/2403.08791v4)** | 2025-08-11 |  |
+| **[Stochastic dynamics learning with state-space systems](http://arxiv.org/abs/2508.07876v1)** | 2025-08-11 |  |
+| **[An Experimental Reservoir-Augmented Foundation Model: 6G O-RAN Case Study](http://arxiv.org/abs/2508.07778v1)** | 2025-08-11 | 5 pages, 2 figures |
+| **[Sortability of Time Series Data](http://arxiv.org/abs/2407.13313v3)** | 2025-08-11 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research, also presented at the Causal Inference for Time Series Data Workshop at the 40th Conference on Uncertainty in Artificial Intelligence (CI4TS 2024)</p></details> |
+| **[Semantic-Enhanced Time-Series Forecasting via Large Language Models](http://arxiv.org/abs/2508.07697v1)** | 2025-08-11 | 14 pages,9 figures |
+| **[AIS-LLM: A Unified Framework for Maritime Trajectory Prediction, Anomaly Detection, and Collision Risk Assessment with Explainable Forecasting](http://arxiv.org/abs/2508.07668v1)** | 2025-08-11 |  |
+| **[N-BEATS-MOE: N-BEATS with a Mixture-of-Experts Layer for Heterogeneous Time Series Forecasting](http://arxiv.org/abs/2508.07490v1)** | 2025-08-10 |  |
+| **[Leveraging GNN to Enhance MEF Method in Predicting ENSO](http://arxiv.org/abs/2508.07410v1)** | 2025-08-10 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 2 tables</p></details> |
 
