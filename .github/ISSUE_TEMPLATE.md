@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 18, 2025
+title: Latest 15 Papers - August 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ke1ewang/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,19 +7,19 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Physics-Informed Diffusion Models for Unsupervised Anomaly Detection in Multivariate Time Series](http://arxiv.org/abs/2508.11528v1)** | 2025-08-15 | 16 pages, 5 figures |
+| **[infomeasure: A Comprehensive Python Package for Information Theory Measures and Estimators](http://arxiv.org/abs/2505.14696v2)** | 2025-08-15 | <details><summary>10 pa...</summary><p>10 pages, 3 figures, 3 tables, for documentation, see https://infomeasure.readthedocs.io/</p></details> |
+| **[Factor Models of Matrix-Valued Time Series: Nonstationarity and Cointegration](http://arxiv.org/abs/2508.11358v1)** | 2025-08-15 |  |
+| **[A Global Dataset of Location Data Integrity-Assessed Reforestation Efforts](http://arxiv.org/abs/2508.11349v1)** | 2025-08-15 | 10 figures |
+| **[An Explainable AI based approach for Monitoring Animal Health](http://arxiv.org/abs/2508.10210v2)** | 2025-08-15 |  |
+| **[TimeMKG: Knowledge-Infused Causal Reasoning for Multivariate Time Series Modeling](http://arxiv.org/abs/2508.09630v2)** | 2025-08-15 |  |
+| **[Air Quality PM2.5 Index Prediction Model Based on CNN-LSTM](http://arxiv.org/abs/2508.11215v1)** | 2025-08-15 |  |
+| **[Bayesian Models for Joint Selection of Features and Auto-Regressive Lags: Theory and Applications in Environmental and Financial Forecasting](http://arxiv.org/abs/2508.10055v2)** | 2025-08-15 |  |
+| **[The Role of Entanglement in Quantum Reservoir Computing with Coupled Kerr Nonlinear Oscillators](http://arxiv.org/abs/2508.11175v1)** | 2025-08-15 |  |
+| **[Incorporating Coupling Knowledge into Echo State Networks for Learning Spatiotemporally Chaotic Dynamics](http://arxiv.org/abs/2504.01532v2)** | 2025-08-15 | 20 pages, 13 figures |
+| **[ViFusionTST: Deep Fusion of Time-Series Image Representations from Load Signals for Early Bed-Exit Prediction](http://arxiv.org/abs/2506.22498v2)** | 2025-08-14 |  |
+| **[LETS Forecast: Learning Embedology for Time Series Forecasting](http://arxiv.org/abs/2506.06454v2)** | 2025-08-14 | <details><summary>Accep...</summary><p>Accepted at International Conference on Machine Learning (ICML) 2025</p></details> |
+| **[A time warping model for seasonal data with application to age estimation from narwhal tusks](http://arxiv.org/abs/2410.05843v2)** | 2025-08-14 |  |
 | **[Empirical Investigation into Configuring Echo State Networks for Representative Benchmark Problem Domains](http://arxiv.org/abs/2508.10887v1)** | 2025-08-14 | 49 pages, 21 figures |
 | **[On the Gaussian distribution of the Mann-Kendall tau in the case of autocorrelated data](http://arxiv.org/abs/2508.10842v1)** | 2025-08-14 | <details><summary>27 pa...</summary><p>27 pages including appendices, 2 figures, 1 table</p></details> |
-| **[Generalizable Federated Learning using Client Adaptive Focal Modulation](http://arxiv.org/abs/2508.10840v1)** | 2025-08-14 | <details><summary>WACV ...</summary><p>WACV 2024 Extended Paper</p></details> |
-| **[Dynamic Skewness in Stochastic Volatility Models: A Penalized Prior Approach](http://arxiv.org/abs/2508.10778v1)** | 2025-08-14 | <details><summary>18 pa...</summary><p>18 pages and 6 figures</p></details> |
-| **[Goal-Oriented Time-Series Forecasting: Foundation Framework Design](http://arxiv.org/abs/2504.17493v3)** | 2025-08-14 |  |
-| **[Self-Supervised Temporal Super-Resolution of Energy Data using Generative Adversarial Transformer](http://arxiv.org/abs/2508.10587v1)** | 2025-08-14 |  |
-| **[When Language Overrules: Revealing Text Dominance in Multimodal Large Language Models](http://arxiv.org/abs/2508.10552v1)** | 2025-08-14 |  |
-| **[Maximum Entropy Models for Unimodal Time Series: Case Studies of Universe 25 and St. Matthew Island](http://arxiv.org/abs/2508.10518v1)** | 2025-08-14 | <details><summary>Non p...</summary><p>Non peer-reviewed preprint. To be presented at Discovery Science 2025. Peer-reviewed version to be published in the Springer Lecture Notes in Computer Science</p></details> |
-| **[Semantic-Enhanced Time-Series Forecasting via Large Language Models](http://arxiv.org/abs/2508.07697v2)** | 2025-08-14 | 14 pages,9 figures |
-| **[PromptTSS: A Prompting-Based Approach for Interactive Multi-Granularity Time Series Segmentation](http://arxiv.org/abs/2506.11170v2)** | 2025-08-14 | <details><summary>Accep...</summary><p>Accepted at the 34th ACM International Conference on Information and Knowledge Management (CIKM 2025)</p></details> |
-| **[Spatio-Temporal Autoregressions for High Dimensional Matrix-Valued Time Series](http://arxiv.org/abs/2508.10291v1)** | 2025-08-14 |  |
-| **[Federated Time Series Generation on Feature and Temporally Misaligned Data](http://arxiv.org/abs/2410.21072v3)** | 2025-08-14 |  |
-| **[M3-Net: A Cost-Effective Graph-Free MLP-Based Model for Traffic Prediction](http://arxiv.org/abs/2508.08543v2)** | 2025-08-14 |  |
-| **[Temporal Wasserstein Imputation: A Versatile Method for Time Series Imputation](http://arxiv.org/abs/2411.02811v3)** | 2025-08-13 |  |
-| **[An Explainable AI based approach for Monitoring Animal Health](http://arxiv.org/abs/2508.10210v1)** | 2025-08-13 |  |
 
