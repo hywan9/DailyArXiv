@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 19, 2025
+title: Latest 15 Papers - August 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ke1ewang/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,19 +7,19 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Physics-Informed Diffusion Models for Unsupervised Anomaly Detection in Multivariate Time Series](http://arxiv.org/abs/2508.11528v1)** | 2025-08-15 | 16 pages, 5 figures |
-| **[infomeasure: A Comprehensive Python Package for Information Theory Measures and Estimators](http://arxiv.org/abs/2505.14696v2)** | 2025-08-15 | <details><summary>10 pa...</summary><p>10 pages, 3 figures, 3 tables, for documentation, see https://infomeasure.readthedocs.io/</p></details> |
-| **[Factor Models of Matrix-Valued Time Series: Nonstationarity and Cointegration](http://arxiv.org/abs/2508.11358v1)** | 2025-08-15 |  |
-| **[A Global Dataset of Location Data Integrity-Assessed Reforestation Efforts](http://arxiv.org/abs/2508.11349v1)** | 2025-08-15 | 10 figures |
-| **[An Explainable AI based approach for Monitoring Animal Health](http://arxiv.org/abs/2508.10210v2)** | 2025-08-15 |  |
-| **[TimeMKG: Knowledge-Infused Causal Reasoning for Multivariate Time Series Modeling](http://arxiv.org/abs/2508.09630v2)** | 2025-08-15 |  |
-| **[Air Quality PM2.5 Index Prediction Model Based on CNN-LSTM](http://arxiv.org/abs/2508.11215v1)** | 2025-08-15 |  |
-| **[Bayesian Models for Joint Selection of Features and Auto-Regressive Lags: Theory and Applications in Environmental and Financial Forecasting](http://arxiv.org/abs/2508.10055v2)** | 2025-08-15 |  |
-| **[The Role of Entanglement in Quantum Reservoir Computing with Coupled Kerr Nonlinear Oscillators](http://arxiv.org/abs/2508.11175v1)** | 2025-08-15 |  |
-| **[Incorporating Coupling Knowledge into Echo State Networks for Learning Spatiotemporally Chaotic Dynamics](http://arxiv.org/abs/2504.01532v2)** | 2025-08-15 | 20 pages, 13 figures |
-| **[ViFusionTST: Deep Fusion of Time-Series Image Representations from Load Signals for Early Bed-Exit Prediction](http://arxiv.org/abs/2506.22498v2)** | 2025-08-14 |  |
-| **[LETS Forecast: Learning Embedology for Time Series Forecasting](http://arxiv.org/abs/2506.06454v2)** | 2025-08-14 | <details><summary>Accep...</summary><p>Accepted at International Conference on Machine Learning (ICML) 2025</p></details> |
-| **[A time warping model for seasonal data with application to age estimation from narwhal tusks](http://arxiv.org/abs/2410.05843v2)** | 2025-08-14 |  |
-| **[Empirical Investigation into Configuring Echo State Networks for Representative Benchmark Problem Domains](http://arxiv.org/abs/2508.10887v1)** | 2025-08-14 | 49 pages, 21 figures |
-| **[On the Gaussian distribution of the Mann-Kendall tau in the case of autocorrelated data](http://arxiv.org/abs/2508.10842v1)** | 2025-08-14 | <details><summary>27 pa...</summary><p>27 pages including appendices, 2 figures, 1 table</p></details> |
+| **[Causally-Guided Pairwise Transformer -- Towards Foundational Digital Twins in Process Industry](http://arxiv.org/abs/2508.13111v1)** | 2025-08-18 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 4 tables</p></details> |
+| **[Hierarchical Evaluation Function (HEF): A Multi-Metric Approach for Optimizing Demand Forecasting Models](http://arxiv.org/abs/2508.13057v1)** | 2025-08-18 | <details><summary>31 pa...</summary><p>31 pages, 15 figures, 110 tables. Submitted as a preprint. The manuscript introduces the Hierarchical Evaluation Function (HEF), a multi-metric framework for optimizing demand forecasting models under high uncertainty. Includes extensive experimental validation using real-world datasets and a comparative analysis against classical and modern methods</p></details> |
+| **[Time Series Analysis in Frequency Domain: A Survey of Open Challenges, Opportunities and Benchmarks](http://arxiv.org/abs/2504.07099v3)** | 2025-08-18 | 35 pages |
+| **[Dynamic Latent Class Structural Equation Modeling: A Hands-On Tutorial for Modeling Intensive Longitudinal Data](http://arxiv.org/abs/2508.12983v1)** | 2025-08-18 | 31 pages, 13 figures |
+| **[A self-supervised learning approach for denoising autoregressive models with additive noise: finite and infinite variance cases](http://arxiv.org/abs/2508.12970v1)** | 2025-08-18 | 32 pages, 17 figures |
+| **[The path to a goal: Understanding soccer possessions via path signatures](http://arxiv.org/abs/2508.12930v1)** | 2025-08-18 |  |
+| **[HRS: Hybrid Representation Framework with Scheduling Awareness for Time Series Forecasting in Crowdsourced Cloud-Edge Platforms](http://arxiv.org/abs/2508.12839v1)** | 2025-08-18 | <details><summary>10 pa...</summary><p>10 pages, 14 figures, ECAI2025</p></details> |
+| **[A Novel Approach for Estimating Largest Lyapunov Exponents in One-Dimensional Chaotic Time Series Using Machine Learning](http://arxiv.org/abs/2507.04868v2)** | 2025-08-18 | <details><summary>18 pa...</summary><p>18 pages, 5 figures, 2 Tables, 14 Equations</p></details> |
+| **[On the Importance of Behavioral Nuances: Amplifying Non-Obvious Motor Noise Under True Empirical Considerations May Lead to Briefer Assays and Faster Classification Processes](http://arxiv.org/abs/2508.12742v1)** | 2025-08-18 | <details><summary>This ...</summary><p>This paper is under review in IEEE Transactions on Affective Computing</p></details> |
+| **[SpikeSTAG: Spatial-Temporal Forecasting via GNN-SNN Collaboration](http://arxiv.org/abs/2508.02069v2)** | 2025-08-18 | 9 pages, 4 figures |
+| **[TFB: Towards Comprehensive and Fair Benchmarking of Time Series Forecasting Methods](http://arxiv.org/abs/2403.20150v4)** | 2025-08-18 | <details><summary>Direc...</summary><p>Directly accepted by PVLDB 2024, VLDB Best Research Paper Award Nomination 2024</p></details> |
+| **[Data-driven particle dynamics: Structure-preserving coarse-graining for emergent behavior in non-equilibrium systems](http://arxiv.org/abs/2508.12569v1)** | 2025-08-18 | 34 pages, 12 figures |
+| **[Deep Learning-Based Financial Time Series Forecasting via Sliding Window and Variational Mode Decomposition](http://arxiv.org/abs/2508.12565v1)** | 2025-08-18 |  |
+| **[Sparsity of the Main Effect Matrix Factor Model](http://arxiv.org/abs/2508.12510v1)** | 2025-08-17 | 43 pages, 7 figures |
+| **[European Space Agency Benchmark for Anomaly Detection in Satellite Telemetry](http://arxiv.org/abs/2406.17826v2)** | 2025-08-17 | <details><summary>87 pa...</summary><p>87 pages, 24 figures, 19 tables</p></details> |
 
