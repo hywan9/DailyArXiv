@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 27, 2025
+title: Latest 15 Papers - August 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ke1ewang/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,19 +7,19 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Frozen in Time: Parameter-Efficient Time Series Transformers via Reservoir-Induced Feature Expansion and Fixed Random Dynamics](http://arxiv.org/abs/2508.18130v1)** | 2025-08-25 | <details><summary>8 pag...</summary><p>8 pages, 5 tables, 3 figures, accepted at ECAI 2025</p></details> |
-| **[Realizing Reduced and Sparse Biochemical Reaction Networks from Dynamics](http://arxiv.org/abs/2508.18096v1)** | 2025-08-25 | <details><summary>Accep...</summary><p>Accepted to IEEE CDC 2025. Author-accepted version; supplementary material in appendix file</p></details> |
-| **[Riemannian Change Point Detection on Manifolds with Robust Centroid Estimation](http://arxiv.org/abs/2508.18045v1)** | 2025-08-25 |  |
-| **[An Unsupervised Deep XAI Framework for Localization of Concurrent Replay Attacks in Nuclear Reactor Signals](http://arxiv.org/abs/2508.09162v2)** | 2025-08-25 | <details><summary>Added...</summary><p>Added references, corrected typos, grammar check, authors updated</p></details> |
-| **[A foundation model with multi-variate parallel attention to generate neuronal activity](http://arxiv.org/abs/2506.20354v2)** | 2025-08-25 | <details><summary>The c...</summary><p>The code is available at https://github.com/IBM/multi-variate-parallel-transformer. The SWEC iEEG dataset is available at https://huggingface.co/datasets/NeuroTec/SWEC_iEEG_Dataset</p></details> |
-| **[Utilizing Multiple Testing for Grouping in Singular Spectrum Analysis](http://arxiv.org/abs/2401.01665v3)** | 2025-08-25 |  |
-| **[FlexTSF: A Flexible Forecasting Model for Time Series with Variable Regularities](http://arxiv.org/abs/2410.23160v2)** | 2025-08-25 |  |
-| **[Tensor-product interactions in Markov-switching models](http://arxiv.org/abs/2507.01555v3)** | 2025-08-25 |  |
-| **[CLaP -- State Detection from Time Series](http://arxiv.org/abs/2504.01783v2)** | 2025-08-25 |  |
-| **[Artificial Intelligence-Based Multiscale Temporal Modeling for Anomaly Detection in Cloud Services](http://arxiv.org/abs/2508.14503v2)** | 2025-08-25 |  |
-| **[Gaussian Process Modeling with Genotype x Environment Kernels for Wheat Performance Prediction](http://arxiv.org/abs/2508.17730v1)** | 2025-08-25 |  |
-| **[WaveStitch: Flexible and Fast Conditional Time Series Generation with Diffusion Models](http://arxiv.org/abs/2503.06231v2)** | 2025-08-25 | <details><summary>Accep...</summary><p>Accepted at ACM SIGMOD 2026</p></details> |
-| **[Testing Simultaneous Diagonalizability](http://arxiv.org/abs/2101.07776v2)** | 2025-08-25 | <details><summary>40 pa...</summary><p>40 pages, 8 figures, 5 tables</p></details> |
-| **[Tracking Temporal Evolution of Topological Features in Image Data](http://arxiv.org/abs/2508.17530v1)** | 2025-08-24 | 24 pages, 9 Figures |
-| **[Modeling Irregular Astronomical Time Series with Neural Stochastic Delay Differential Equations](http://arxiv.org/abs/2508.17521v1)** | 2025-08-24 |  |
+| **[Learning Interior Point Method for AC and DC Optimal Power Flow](http://arxiv.org/abs/2508.19146v1)** | 2025-08-26 |  |
+| **[Echoes of the past: A unified perspective on fading memory and echo states](http://arxiv.org/abs/2508.19145v1)** | 2025-08-26 |  |
+| **[MCI-GRU: Stock Prediction Model Based on Multi-Head Cross-Attention and Improved GRU](http://arxiv.org/abs/2410.20679v3)** | 2025-08-26 |  |
+| **[TimeFlow: Temporal Conditioning for Longitudinal Brain MRI Registration and Aging Analysis](http://arxiv.org/abs/2501.08667v3)** | 2025-08-26 |  |
+| **[Time Series Analysis of Spiking Neural Systems via Transfer Entropy and Directed Persistent Homology](http://arxiv.org/abs/2508.19048v1)** | 2025-08-26 |  |
+| **[Network inference via approximate Bayesian computation. Illustration on a stochastic multi-population neural mass model](http://arxiv.org/abs/2306.15787v4)** | 2025-08-26 | 37 pages, 22 figures |
+| **[STDiff: A State Transition Diffusion Framework for Time Series Imputation in Industrial Systems](http://arxiv.org/abs/2508.19011v1)** | 2025-08-26 |  |
+| **[PAX-TS: Model-agnostic multi-granular explanations for time series forecasting via localized perturbations](http://arxiv.org/abs/2508.18982v1)** | 2025-08-26 |  |
+| **[Learning the Simplest Neural ODE](http://arxiv.org/abs/2505.02019v3)** | 2025-08-26 | <details><summary>Accep...</summary><p>Accepted SICE FES 2025</p></details> |
+| **[pyFAST: A Modular PyTorch Framework for Time Series Modeling with Multi-source and Sparse Data](http://arxiv.org/abs/2508.18891v1)** | 2025-08-26 |  |
+| **[Deep Pre-trained Time Series Features for Tree Species Classification in the Dutch Forest Inventory](http://arxiv.org/abs/2508.18829v1)** | 2025-08-26 |  |
+| **[Leveraging GNN to Enhance MEF Method in Predicting ENSO](http://arxiv.org/abs/2508.07410v3)** | 2025-08-26 | <details><summary>17 pa...</summary><p>17 pages, 4 figures, 2 tables</p></details> |
+| **[FLAegis: A Two-Layer Defense Framework for Federated Learning Against Poisoning Attacks](http://arxiv.org/abs/2508.18737v1)** | 2025-08-26 | <details><summary>15 pa...</summary><p>15 pages, 5 tables, and 5 figures</p></details> |
+| **[Realizing Reduced and Sparse Biochemical Reaction Networks from Dynamics](http://arxiv.org/abs/2508.18096v2)** | 2025-08-26 | <details><summary>Accep...</summary><p>Accepted to IEEE CDC 2025. Author-accepted version; supplementary material in ancillary files (In this version, supplementary PDF is moved to ancillary files; no content changes to main article)</p></details> |
+| **[Dynamic Count Models with Flexible Innovation Processes for Irregular Maritime Migration](http://arxiv.org/abs/2508.18716v1)** | 2025-08-26 |  |
 
