@@ -38,8 +38,8 @@ jobs:
           commit-message: '✏️ Update papers automatically.'
           force-add: 'true'
           files: README.md .github/ISSUE_TEMPLATE.md
-          name: ke1ewang
-          email: kele.wang@proton.me
+          name: hywan9
+          email: hywan9@gmail.com
 
       - name: Create an issue to notify
         uses: JasonEtco/create-an-issue@v2
