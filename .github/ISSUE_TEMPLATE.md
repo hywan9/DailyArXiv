@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 24, 2025
+title: Latest 15 Papers - September 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ke1ewang/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,19 +7,19 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Budgeted Adversarial Attack against Graph-Based Anomaly Detection in Sensor Networks](http://arxiv.org/abs/2509.17987v1)** | 2025-09-22 | 12 pages |
-| **[Covariance-Corrected WAIC for Bayesian Sequential Data Models](http://arxiv.org/abs/2509.17980v1)** | 2025-09-22 | <details><summary>20 pa...</summary><p>20 pages, 2 tables, 1 figure, Preprint</p></details> |
-| **[StefaLand: An Efficient Geoscience Foundation Model That Improves Dynamic Land-Surface Predictions](http://arxiv.org/abs/2509.17942v1)** | 2025-09-22 |  |
-| **[Conv-like Scale-Fusion Time Series Transformer: A Multi-Scale Representation for Variable-Length Long Time Series](http://arxiv.org/abs/2509.17845v1)** | 2025-09-22 |  |
-| **[MTM: A Multi-Scale Token Mixing Transformer for Irregular Multivariate Time Series Classification](http://arxiv.org/abs/2509.17809v1)** | 2025-09-22 | KDD 2025 |
-| **[TS-P$^2$CL: Plug-and-Play Dual Contrastive Learning for Vision-Guided Medical Time Series Classification](http://arxiv.org/abs/2509.17802v1)** | 2025-09-22 | 12 pages, 4 figures |
-| **[Full-History Graphs with Edge-Type Decoupled Networks for Temporal Reasoning](http://arxiv.org/abs/2508.03251v2)** | 2025-09-22 | <details><summary>Europ...</summary><p>European Conference of Artificial Intelligence 2025</p></details> |
-| **[STRATA-TS: Selective Knowledge Transfer for Urban Time Series Forecasting with Retrieval-Guided Reasoning](http://arxiv.org/abs/2508.18635v2)** | 2025-09-22 |  |
-| **[On continuous-time sparse identification of nonlinear polynomial systems](http://arxiv.org/abs/2509.17635v1)** | 2025-09-22 |  |
-| **[Comparing Data Assimilation and Likelihood-Based Inference on Latent State Estimation in Agent-Based Models](http://arxiv.org/abs/2509.17625v1)** | 2025-09-22 |  |
-| **[Periodic Graph-Enhanced Multivariate Time Series Anomaly Detector](http://arxiv.org/abs/2509.17472v1)** | 2025-09-22 |  |
-| **[Causally-Guided Pairwise Transformer -- Towards Foundational Digital Twins in Process Industry](http://arxiv.org/abs/2508.13111v2)** | 2025-09-22 | <details><summary>12 pa...</summary><p>12 pages, 2 figures (1 figure updated), 4 tables</p></details> |
-| **[Molecular Communication Channel as a Physical Reservoir Computer](http://arxiv.org/abs/2504.17022v2)** | 2025-09-21 |  |
-| **[Prospective Multi-Graph Cohesion for Multivariate Time Series Anomaly Detection](http://arxiv.org/abs/2509.17235v1)** | 2025-09-21 | <details><summary>Accep...</summary><p>Accepted by the 18th ACM International Conference on Web Search and Data Mining (ACM WSDM 2025)</p></details> |
-| **[Bridging Past and Future: Distribution-Aware Alignment for Time Series Forecasting](http://arxiv.org/abs/2509.14181v2)** | 2025-09-21 |  |
+| **[AI-Generated Text is Non-Stationary: Detection via Temporal Tomography](http://arxiv.org/abs/2508.01754v2)** | 2025-09-23 |  |
+| **[Causal tail coefficient for compound extremes in multivariate time series](http://arxiv.org/abs/2509.19007v1)** | 2025-09-23 |  |
+| **[Injecting Explainability and Lightweight Design into Weakly Supervised Video Anomaly Detection Systems](http://arxiv.org/abs/2412.20201v2)** | 2025-09-23 |  |
+| **[Time Series Information Visualization - A Review of Approaches and Tools](http://arxiv.org/abs/2507.14920v2)** | 2025-09-23 | <details><summary>This ...</summary><p>This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2025.3609404</p></details> |
+| **[MOMEMTO: Patch-based Memory Gate Model in Time Series Foundation Model](http://arxiv.org/abs/2509.18751v1)** | 2025-09-23 |  |
+| **[Recent advances in data-driven methods for degradation modelling across applications](http://arxiv.org/abs/2504.18164v2)** | 2025-09-23 |  |
+| **[Q-DPTS: Quantum Differentially Private Time Series Forecasting via Variational Quantum Circuits](http://arxiv.org/abs/2508.05036v2)** | 2025-09-23 |  |
+| **[Benchmarking Quantum and Classical Sequential Models for Urban Telecommunication Forecasting](http://arxiv.org/abs/2508.04488v2)** | 2025-09-23 |  |
+| **[DS-Diffusion: Data Style-Guided Diffusion Model for Time-Series Generation](http://arxiv.org/abs/2509.18584v1)** | 2025-09-23 |  |
+| **[Physics-informed time series analysis with Kolmogorov-Arnold Networks under Ehrenfest constraints](http://arxiv.org/abs/2509.18483v1)** | 2025-09-23 |  |
+| **[TIDMAD: Time Series Dataset for Discovering Dark Matter with AI Denoising](http://arxiv.org/abs/2406.04378v2)** | 2025-09-22 |  |
+| **["What is Different Between These Datasets?" A Framework for Explaining Data Distribution Shifts](http://arxiv.org/abs/2403.05652v3)** | 2025-09-22 |  |
+| **[Cointegration with Occasionally Binding Constraints](http://arxiv.org/abs/2211.09604v4)** | 2025-09-22 | <details><summary>ii + ...</summary><p>ii + 58 pp., 4 figures; author accepted manuscript</p></details> |
+| **[Temporal Conformal Prediction (TCP): A Distribution-Free Statistical and Machine Learning Framework for Adaptive Risk Forecasting](http://arxiv.org/abs/2507.05470v3)** | 2025-09-22 |  |
+| **[On Multi-entity, Multivariate Quickest Change Point Detection](http://arxiv.org/abs/2509.18310v1)** | 2025-09-22 |  |
 
