@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 25, 2025
+title: Latest 15 Papers - September 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ke1ewang/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,19 +7,19 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AI-Generated Text is Non-Stationary: Detection via Temporal Tomography](http://arxiv.org/abs/2508.01754v2)** | 2025-09-23 |  |
-| **[Causal tail coefficient for compound extremes in multivariate time series](http://arxiv.org/abs/2509.19007v1)** | 2025-09-23 |  |
-| **[Injecting Explainability and Lightweight Design into Weakly Supervised Video Anomaly Detection Systems](http://arxiv.org/abs/2412.20201v2)** | 2025-09-23 |  |
-| **[Time Series Information Visualization - A Review of Approaches and Tools](http://arxiv.org/abs/2507.14920v2)** | 2025-09-23 | <details><summary>This ...</summary><p>This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2025.3609404</p></details> |
-| **[MOMEMTO: Patch-based Memory Gate Model in Time Series Foundation Model](http://arxiv.org/abs/2509.18751v1)** | 2025-09-23 |  |
-| **[Recent advances in data-driven methods for degradation modelling across applications](http://arxiv.org/abs/2504.18164v2)** | 2025-09-23 |  |
-| **[Q-DPTS: Quantum Differentially Private Time Series Forecasting via Variational Quantum Circuits](http://arxiv.org/abs/2508.05036v2)** | 2025-09-23 |  |
-| **[Benchmarking Quantum and Classical Sequential Models for Urban Telecommunication Forecasting](http://arxiv.org/abs/2508.04488v2)** | 2025-09-23 |  |
-| **[DS-Diffusion: Data Style-Guided Diffusion Model for Time-Series Generation](http://arxiv.org/abs/2509.18584v1)** | 2025-09-23 |  |
-| **[Physics-informed time series analysis with Kolmogorov-Arnold Networks under Ehrenfest constraints](http://arxiv.org/abs/2509.18483v1)** | 2025-09-23 |  |
-| **[TIDMAD: Time Series Dataset for Discovering Dark Matter with AI Denoising](http://arxiv.org/abs/2406.04378v2)** | 2025-09-22 |  |
-| **["What is Different Between These Datasets?" A Framework for Explaining Data Distribution Shifts](http://arxiv.org/abs/2403.05652v3)** | 2025-09-22 |  |
-| **[Cointegration with Occasionally Binding Constraints](http://arxiv.org/abs/2211.09604v4)** | 2025-09-22 | <details><summary>ii + ...</summary><p>ii + 58 pp., 4 figures; author accepted manuscript</p></details> |
-| **[Temporal Conformal Prediction (TCP): A Distribution-Free Statistical and Machine Learning Framework for Adaptive Risk Forecasting](http://arxiv.org/abs/2507.05470v3)** | 2025-09-22 |  |
-| **[On Multi-entity, Multivariate Quickest Change Point Detection](http://arxiv.org/abs/2509.18310v1)** | 2025-09-22 |  |
+| **[Process-Informed Forecasting of Complex Thermal Dynamics in Pharmaceutical Manufacturing](http://arxiv.org/abs/2509.20349v1)** | 2025-09-24 |  |
+| **[Dynamic Lagging for Time-Series Forecasting in E-Commerce Finance: Mitigating Information Loss with A Hybrid ML Architecture](http://arxiv.org/abs/2509.20244v1)** | 2025-09-24 |  |
+| **[An Improved Time Series Anomaly Detection by Applying Structural Similarity](http://arxiv.org/abs/2509.20184v1)** | 2025-09-24 |  |
+| **[DiffNator: Generating Structured Explanations of Time-Series Differences](http://arxiv.org/abs/2509.20007v1)** | 2025-09-24 |  |
+| **[Pi-Transformer: A Physics-informed Attention Mechanism for Time Series Anomaly Detection](http://arxiv.org/abs/2509.19985v1)** | 2025-09-24 |  |
+| **[From Samples to Scenarios: A New Paradigm for Probabilistic Forecasting](http://arxiv.org/abs/2509.19975v1)** | 2025-09-24 |  |
+| **[Matrix Autoregressive Model with Vector Time Series Covariates for Spatio-Temporal Data](http://arxiv.org/abs/2305.15671v4)** | 2025-09-24 |  |
+| **[Extending finite mixture models with skew-normal distributions and hidden Markov models for time series](http://arxiv.org/abs/2509.19920v1)** | 2025-09-24 | <details><summary>37 pa...</summary><p>37 pages, 10 figures, 6 tables</p></details> |
+| **[DS-Diffusion: Data Style-Guided Diffusion Model for Time-Series Generation](http://arxiv.org/abs/2509.18584v2)** | 2025-09-24 |  |
+| **[Towards Self-Supervised Foundation Models for Critical Care Time Series](http://arxiv.org/abs/2509.19885v1)** | 2025-09-24 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025 workshop Learning from Time Series for Health (TS4H)</p></details> |
+| **[Deterministic Frequency--Domain Inference of Network Topology and Hidden Components via Structure--Behavior Scaling](http://arxiv.org/abs/2509.19857v1)** | 2025-09-24 | <details><summary>This ...</summary><p>This work has been submitted to the Communications Physics for possible publication</p></details> |
+| **[DeNOTS: Stable Deep Neural ODEs for Time Series](http://arxiv.org/abs/2408.08055v4)** | 2025-09-24 |  |
+| **[On the Integration of Spatial-Temporal Knowledge: A Lightweight Approach to Atmospheric Time Series Forecasting](http://arxiv.org/abs/2408.09695v2)** | 2025-09-24 |  |
+| **[Time Series Analysis in Frequency Domain: A Survey of Open Challenges, Opportunities and Benchmarks](http://arxiv.org/abs/2504.07099v4)** | 2025-09-24 | 35 pages |
+| **[Assessing Bias in the Variable Bandpass Periodic Block Bootstrap Method](http://arxiv.org/abs/2509.08647v2)** | 2025-09-24 | <details><summary>27 pa...</summary><p>27 pages, 8 figures, 1 table</p></details> |
 
