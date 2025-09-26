@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 26, 2025
+title: Latest 15 Papers - September 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ke1ewang/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,19 +7,19 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Process-Informed Forecasting of Complex Thermal Dynamics in Pharmaceutical Manufacturing](http://arxiv.org/abs/2509.20349v1)** | 2025-09-24 |  |
-| **[Dynamic Lagging for Time-Series Forecasting in E-Commerce Finance: Mitigating Information Loss with A Hybrid ML Architecture](http://arxiv.org/abs/2509.20244v1)** | 2025-09-24 |  |
-| **[An Improved Time Series Anomaly Detection by Applying Structural Similarity](http://arxiv.org/abs/2509.20184v1)** | 2025-09-24 |  |
-| **[DiffNator: Generating Structured Explanations of Time-Series Differences](http://arxiv.org/abs/2509.20007v1)** | 2025-09-24 |  |
-| **[Pi-Transformer: A Physics-informed Attention Mechanism for Time Series Anomaly Detection](http://arxiv.org/abs/2509.19985v1)** | 2025-09-24 |  |
-| **[From Samples to Scenarios: A New Paradigm for Probabilistic Forecasting](http://arxiv.org/abs/2509.19975v1)** | 2025-09-24 |  |
-| **[Matrix Autoregressive Model with Vector Time Series Covariates for Spatio-Temporal Data](http://arxiv.org/abs/2305.15671v4)** | 2025-09-24 |  |
-| **[Extending finite mixture models with skew-normal distributions and hidden Markov models for time series](http://arxiv.org/abs/2509.19920v1)** | 2025-09-24 | <details><summary>37 pa...</summary><p>37 pages, 10 figures, 6 tables</p></details> |
-| **[DS-Diffusion: Data Style-Guided Diffusion Model for Time-Series Generation](http://arxiv.org/abs/2509.18584v2)** | 2025-09-24 |  |
-| **[Towards Self-Supervised Foundation Models for Critical Care Time Series](http://arxiv.org/abs/2509.19885v1)** | 2025-09-24 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025 workshop Learning from Time Series for Health (TS4H)</p></details> |
-| **[Deterministic Frequency--Domain Inference of Network Topology and Hidden Components via Structure--Behavior Scaling](http://arxiv.org/abs/2509.19857v1)** | 2025-09-24 | <details><summary>This ...</summary><p>This work has been submitted to the Communications Physics for possible publication</p></details> |
-| **[DeNOTS: Stable Deep Neural ODEs for Time Series](http://arxiv.org/abs/2408.08055v4)** | 2025-09-24 |  |
-| **[On the Integration of Spatial-Temporal Knowledge: A Lightweight Approach to Atmospheric Time Series Forecasting](http://arxiv.org/abs/2408.09695v2)** | 2025-09-24 |  |
-| **[Time Series Analysis in Frequency Domain: A Survey of Open Challenges, Opportunities and Benchmarks](http://arxiv.org/abs/2504.07099v4)** | 2025-09-24 | 35 pages |
-| **[Assessing Bias in the Variable Bandpass Periodic Block Bootstrap Method](http://arxiv.org/abs/2509.08647v2)** | 2025-09-24 | <details><summary>27 pa...</summary><p>27 pages, 8 figures, 1 table</p></details> |
+| **[Clustering methods for Categorical Time Series and Sequences : A scoping review](http://arxiv.org/abs/2509.07885v3)** | 2025-09-25 |  |
+| **[ML-PWS: Estimating the Mutual Information Between Experimental Time Series Using Neural Networks](http://arxiv.org/abs/2508.16509v2)** | 2025-09-25 | 9 pages, 2 figures |
+| **[Towards Foundation Models for Zero-Shot Time Series Anomaly Detection: Leveraging Synthetic Data and Relative Context Discrepancy](http://arxiv.org/abs/2509.21190v1)** | 2025-09-25 |  |
+| **[Benchmarking for Practice: Few-Shot Time-Series Crop-Type Classification on the EuroCropsML Dataset](http://arxiv.org/abs/2504.11022v2)** | 2025-09-25 | <details><summary>31 pa...</summary><p>31 pages, 10 figures, 20 tables</p></details> |
+| **[One-Embedding-Fits-All: Efficient Zero-Shot Time Series Forecasting by a Model Zoo](http://arxiv.org/abs/2509.04208v2)** | 2025-09-25 |  |
+| **[Lossless Compression: A New Benchmark for Time Series Model Evaluation](http://arxiv.org/abs/2509.21002v1)** | 2025-09-25 | 24 pages |
+| **[R&D-Agent-Quant: A Multi-Agent Framework for Data-Centric Factors and Model Joint Optimization](http://arxiv.org/abs/2505.15155v2)** | 2025-09-25 | <details><summary>42 pa...</summary><p>42 pages,11figures, NeurIPS 2025</p></details> |
+| **[Why Attention Fails: The Degeneration of Transformers into MLPs in Time Series Forecasting](http://arxiv.org/abs/2509.20942v1)** | 2025-09-25 |  |
+| **[GenFacts-Generative Counterfactual Explanations for Multi-Variate Time Series](http://arxiv.org/abs/2509.20936v1)** | 2025-09-25 | 5 pages |
+| **[A Deep Learning Framework for Evaluating Dynamic Network Generative Models and Anomaly Detection](http://arxiv.org/abs/2406.11901v2)** | 2025-09-25 |  |
+| **[Conditionally Whitened Generative Models for Probabilistic Time Series Forecasting](http://arxiv.org/abs/2509.20928v1)** | 2025-09-25 |  |
+| **[OLMA: One Loss for More Accurate Time Series Forecasting](http://arxiv.org/abs/2505.11567v2)** | 2025-09-25 |  |
+| **[Time series saliency maps: explaining models across multiple domains](http://arxiv.org/abs/2505.13100v2)** | 2025-09-25 |  |
+| **[Federated Markov Imputation: Privacy-Preserving Temporal Imputation in Multi-Centric ICU Environments](http://arxiv.org/abs/2509.20867v1)** | 2025-09-25 | <details><summary>Accep...</summary><p>Accepted at the 1st International ECML-PKDD Workshop-Tutorial on Learning on Real and Synthetic Medical Time Series Data (MED-TIME)</p></details> |
+| **[Causal Time Series Generation via Diffusion Models](http://arxiv.org/abs/2509.20846v1)** | 2025-09-25 |  |
 
