@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 29, 2025
+title: Latest 15 Papers - September 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ke1ewang/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,19 +7,19 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Clustering methods for Categorical Time Series and Sequences : A scoping review](http://arxiv.org/abs/2509.07885v3)** | 2025-09-25 |  |
-| **[ML-PWS: Estimating the Mutual Information Between Experimental Time Series Using Neural Networks](http://arxiv.org/abs/2508.16509v2)** | 2025-09-25 | 9 pages, 2 figures |
-| **[Towards Foundation Models for Zero-Shot Time Series Anomaly Detection: Leveraging Synthetic Data and Relative Context Discrepancy](http://arxiv.org/abs/2509.21190v1)** | 2025-09-25 |  |
-| **[Benchmarking for Practice: Few-Shot Time-Series Crop-Type Classification on the EuroCropsML Dataset](http://arxiv.org/abs/2504.11022v2)** | 2025-09-25 | <details><summary>31 pa...</summary><p>31 pages, 10 figures, 20 tables</p></details> |
-| **[One-Embedding-Fits-All: Efficient Zero-Shot Time Series Forecasting by a Model Zoo](http://arxiv.org/abs/2509.04208v2)** | 2025-09-25 |  |
-| **[Lossless Compression: A New Benchmark for Time Series Model Evaluation](http://arxiv.org/abs/2509.21002v1)** | 2025-09-25 | 24 pages |
-| **[R&D-Agent-Quant: A Multi-Agent Framework for Data-Centric Factors and Model Joint Optimization](http://arxiv.org/abs/2505.15155v2)** | 2025-09-25 | <details><summary>42 pa...</summary><p>42 pages,11figures, NeurIPS 2025</p></details> |
-| **[Why Attention Fails: The Degeneration of Transformers into MLPs in Time Series Forecasting](http://arxiv.org/abs/2509.20942v1)** | 2025-09-25 |  |
-| **[GenFacts-Generative Counterfactual Explanations for Multi-Variate Time Series](http://arxiv.org/abs/2509.20936v1)** | 2025-09-25 | 5 pages |
-| **[A Deep Learning Framework for Evaluating Dynamic Network Generative Models and Anomaly Detection](http://arxiv.org/abs/2406.11901v2)** | 2025-09-25 |  |
-| **[Conditionally Whitened Generative Models for Probabilistic Time Series Forecasting](http://arxiv.org/abs/2509.20928v1)** | 2025-09-25 |  |
-| **[OLMA: One Loss for More Accurate Time Series Forecasting](http://arxiv.org/abs/2505.11567v2)** | 2025-09-25 |  |
-| **[Time series saliency maps: explaining models across multiple domains](http://arxiv.org/abs/2505.13100v2)** | 2025-09-25 |  |
-| **[Federated Markov Imputation: Privacy-Preserving Temporal Imputation in Multi-Centric ICU Environments](http://arxiv.org/abs/2509.20867v1)** | 2025-09-25 | <details><summary>Accep...</summary><p>Accepted at the 1st International ECML-PKDD Workshop-Tutorial on Learning on Real and Synthetic Medical Time Series Data (MED-TIME)</p></details> |
-| **[Causal Time Series Generation via Diffusion Models](http://arxiv.org/abs/2509.20846v1)** | 2025-09-25 |  |
+| **[TAMMs: Temporal-Aware Multimodal Model for Satellite Image Change Understanding and Forecasting](http://arxiv.org/abs/2506.18862v2)** | 2025-09-26 | <details><summary>Submi...</summary><p>Submitted to The Fourteenth International Conference on Learning Representations (ICLR 2026). Our dataset can be found at https://huggingface.co/datasets/IceInPot/TAMMs</p></details> |
+| **[Multimodal Recurrent Ensembles for Predicting Brain Responses to Naturalistic Movies (Algonauts 2025)](http://arxiv.org/abs/2507.17897v3)** | 2025-09-26 | <details><summary>8 pag...</summary><p>8 pages, 2 figures, 1 table. Invited report, CCN 2025 Algonauts Project session (3rd-place team). Code: https://github.com/erensemih/Algonauts2025_ModalityRNN v3: Added equal contribution footnote to author list</p></details> |
+| **[Aurora: Towards Universal Generative Multimodal Time Series Forecasting](http://arxiv.org/abs/2509.22295v1)** | 2025-09-26 |  |
+| **[Forecasting the future development in quality and value of professional football players](http://arxiv.org/abs/2502.07528v3)** | 2025-09-26 |  |
+| **[Structured Sparse Transition Matrices to Enable State Tracking in State-Space Models](http://arxiv.org/abs/2509.22284v1)** | 2025-09-26 | <details><summary>10 pa...</summary><p>10 pages, NeurIPS 2025 Spotlight</p></details> |
+| **[Unlocking the Power of Mixture-of-Experts for Task-Aware Time Series Analytics](http://arxiv.org/abs/2509.22279v1)** | 2025-09-26 |  |
+| **[Tail-robust estimation of factor-adjusted vector autoregressive models for high-dimensional time series](http://arxiv.org/abs/2509.22235v1)** | 2025-09-26 |  |
+| **[Bayesian approach to the PC component](http://arxiv.org/abs/2509.22217v1)** | 2025-09-26 |  |
+| **[ERIS: An Energy-Guided Feature Disentanglement Framework for Out-of-Distribution Time Series Classification](http://arxiv.org/abs/2508.14134v2)** | 2025-09-26 |  |
+| **[Simple Macroeconomic Forecast Distributions for the G7 Economies](http://arxiv.org/abs/2408.08304v4)** | 2025-09-26 |  |
+| **[Mind the Missing: Variable-Aware Representation Learning for Irregular EHR Time Series using Large Language Models](http://arxiv.org/abs/2509.22121v1)** | 2025-09-26 |  |
+| **[TimeMosaic: Temporal Heterogeneity Guided Time Series Forecasting via Adaptive Granularity Patch and Segment-wise Decoding](http://arxiv.org/abs/2509.19406v2)** | 2025-09-26 |  |
+| **[Extracting Actionable Insights from Building Energy Data using Vision LLMs on Wavelet and 3D Recurrence Representations](http://arxiv.org/abs/2509.21934v1)** | 2025-09-26 | <details><summary>IEEE ...</summary><p>IEEE International Conference on Data Mining 2025</p></details> |
+| **[GPU Temperature Simulation-Based Testing for In-Vehicle Deep Learning Frameworks](http://arxiv.org/abs/2509.15815v2)** | 2025-09-26 |  |
+| **[Online Resource Allocation with Average Budget Constraints](http://arxiv.org/abs/2402.11425v5)** | 2025-09-26 |  |
 
