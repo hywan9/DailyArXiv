@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 03, 2025
+title: Latest 15 Papers - October 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ke1ewang/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,19 +7,19 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Estimating Visceral Adiposity from Wrist-Worn Accelerometry](http://arxiv.org/abs/2506.09167v2)** | 2025-10-01 | <details><summary>This ...</summary><p>This article has been accepted for publication in IEEE Journal of Biomedical and Health Informatics</p></details> |
-| **[Differential Privacy of Network Parameters from a System Identification Perspective](http://arxiv.org/abs/2509.20460v2)** | 2025-10-01 |  |
-| **[Simultaneous estimation of the effective reproduction number and the time series of daily infections: Application to Covid-19](http://arxiv.org/abs/2506.21027v2)** | 2025-10-01 |  |
-| **[Functional Regression with Nonstationarity and Error Contamination: Application to the Economic Impact of Climate Change](http://arxiv.org/abs/2509.08591v3)** | 2025-10-01 |  |
-| **[Automated flood detection from Sentinel-1 GRD time series using Bayesian analysis for change point problems](http://arxiv.org/abs/2504.19526v3)** | 2025-10-01 | 17 pages, 6 figures |
-| **[Federated Dynamic Modeling and Learning for Spatiotemporal Data Forecasting](http://arxiv.org/abs/2503.04528v2)** | 2025-10-01 |  |
-| **[MS-DFTVNet:A Long-Term Time Series Prediction Method Based on Multi-Scale Deformable Convolution](http://arxiv.org/abs/2506.17253v3)** | 2025-10-01 |  |
-| **[Learning Pattern-Specific Experts for Time Series Forecasting Under Patch-level Distribution Shift](http://arxiv.org/abs/2410.09836v2)** | 2025-10-01 |  |
-| **[ReNF: Rethinking the Design Space of Neural Long-Term Time Series Forecasters](http://arxiv.org/abs/2509.25914v2)** | 2025-10-01 |  |
-| **[Stab-QRAM: An All-Clifford Quantum Random Access Memory for Special Data](http://arxiv.org/abs/2509.26494v1)** | 2025-09-30 | 7 pages, 4 figures |
-| **[fev-bench: A Realistic Benchmark for Time Series Forecasting](http://arxiv.org/abs/2509.26468v1)** | 2025-09-30 |  |
-| **[How Far Do Time Series Foundation Models Paint the Landscape of Real-World Benchmarks ?](http://arxiv.org/abs/2509.26347v1)** | 2025-09-30 |  |
-| **[Anomaly detection for generic failure monitoring in robotic assembly, screwing and manipulation](http://arxiv.org/abs/2509.26308v1)** | 2025-09-30 |  |
-| **[Palace: A Library for Interactive GPU-Accelerated Large Tensor Processing and Visualization](http://arxiv.org/abs/2509.26213v1)** | 2025-09-30 |  |
-| **[EntroPE: Entropy-Guided Dynamic Patch Encoder for Time Series Forecasting](http://arxiv.org/abs/2509.26157v1)** | 2025-09-30 | <details><summary>Prepr...</summary><p>Preprint. Under Review</p></details> |
+| **[Efficiently Generating Correlated Sample Paths from Multi-step Time Series Foundation Models](http://arxiv.org/abs/2510.02224v1)** | 2025-10-02 |  |
+| **[Diffusion Transformers for Imputation: Statistical Efficiency and Uncertainty Quantification](http://arxiv.org/abs/2510.02216v1)** | 2025-10-02 | <details><summary>49 pa...</summary><p>49 pages, 4 figures. Accepted as a poster at NeurIPS 2025</p></details> |
+| **[VarCoNet: A variability-aware self-supervised framework for functional connectome extraction from resting-state fMRI](http://arxiv.org/abs/2510.02120v1)** | 2025-10-02 | <details><summary>My pr...</summary><p>My preview .pdf was not loading. Can you please share with me a compiled .pdf file so I can confirm that the result is correct?</p></details> |
+| **[KAIROS: Unified Training for Universal Non-Autoregressive Time Series Forecasting](http://arxiv.org/abs/2510.02084v1)** | 2025-10-02 |  |
+| **[Time-o1: Time-Series Forecasting Needs Transformed Label Alignment](http://arxiv.org/abs/2505.17847v2)** | 2025-10-02 | <details><summary>Accep...</summary><p>Accepted as poster in NeurIPS 2025</p></details> |
+| **[Moon: A Modality Conversion-based Efficient Multivariate Time Series Anomaly Detection](http://arxiv.org/abs/2510.01970v1)** | 2025-10-02 |  |
+| **[A Novel Approach for Estimating Largest Lyapunov Exponents in One-Dimensional Chaotic Time Series Using Machine Learning](http://arxiv.org/abs/2507.04868v3)** | 2025-10-02 | <details><summary>18 pa...</summary><p>18 pages, 5 figures, 2 Tables, 14 Equations</p></details> |
+| **[How Foundational are Foundation Models for Time Series Forecasting?](http://arxiv.org/abs/2510.00742v2)** | 2025-10-02 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 Workshop on Recent Advances in Time Series Foundation Models (BERT2S)</p></details> |
+| **[Are Time Series Foundation Models Susceptible to Catastrophic Forgetting?](http://arxiv.org/abs/2510.00809v2)** | 2025-10-02 |  |
+| **[Robust Capacity Expansion Modelling for Renewable Energy Systems](http://arxiv.org/abs/2504.06750v3)** | 2025-10-02 |  |
+| **[IndexNet: Timestamp and Variable-Aware Modeling for Time Series Forecasting](http://arxiv.org/abs/2509.23813v2)** | 2025-10-02 |  |
+| **[Learning Beyond Experience: Generalizing to Unseen State Space with Reservoir Computing](http://arxiv.org/abs/2506.05292v2)** | 2025-10-02 | <details><summary>18 pa...</summary><p>18 pages, 12 figures. Updated to include results with RC generalization to unseen segregated and asymmetric basins of attraction and unseen chaotic attractors</p></details> |
+| **[Forecasting intraday particle number size distribution: A functional time series approach](http://arxiv.org/abs/2510.01692v1)** | 2025-10-02 | <details><summary>31 pa...</summary><p>31 pages, 11 figures, 2 tables</p></details> |
+| **[Learning Time-Series Representations by Hierarchical Uniformity-Tolerance Latent Balancing](http://arxiv.org/abs/2510.01658v1)** | 2025-10-02 | <details><summary>Accep...</summary><p>Accepted in Transactions on Machine Learning Research</p></details> |
+| **[FTSCommDetector: Discovering Behavioral Communities through Temporal Synchronization](http://arxiv.org/abs/2510.00014v2)** | 2025-10-02 |  |
 
