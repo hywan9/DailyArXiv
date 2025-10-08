@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 08, 2025
+title: Latest 15 Papers - October 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ke1ewang/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,19 +7,19 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Reproducing kernel methods for machine learning, PDEs, and statistics](http://arxiv.org/abs/2402.07084v3)** | 2025-10-06 | 180 pages |
-| **[ResCP: Reservoir Conformal Prediction for Time Series Forecasting](http://arxiv.org/abs/2510.05060v1)** | 2025-10-06 |  |
-| **[Benchmarking Time Series Foundation Models for Short-Term Household Electricity Load Forecasting](http://arxiv.org/abs/2410.09487v2)** | 2025-10-06 |  |
-| **[FARS: Factor Augmented Regression Scenarios in R](http://arxiv.org/abs/2507.10679v2)** | 2025-10-06 |  |
-| **[StructuralDecompose: A Modular Framework for Robust Time Series Decomposition in R](http://arxiv.org/abs/2510.04974v1)** | 2025-10-06 | <details><summary>8 pag...</summary><p>8 pages, 4 figures. Part of the R package StructuralDecompose (https://cran.r-project.org/web/packages/StructuralDecompose/index.html)</p></details> |
-| **[MCMC for State Space models](http://arxiv.org/abs/2510.04932v1)** | 2025-10-06 | <details><summary>This ...</summary><p>This review article is intended for the second edition of The Handbook of MCMC and is a substantial revision of the chapter of the same name that appeared in the first edition. In particular, it now describes the particle filter and particle-MCMC algorithms</p></details> |
-| **[Glocal Information Bottleneck for Time Series Imputation](http://arxiv.org/abs/2510.04910v1)** | 2025-10-06 |  |
-| **[How Different from the Past? Spatio-Temporal Time Series Forecasting with Self-Supervised Deviation Learning](http://arxiv.org/abs/2510.04908v1)** | 2025-10-06 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
-| **[Benchmarking M-LTSF: Frequency and Noise-Based Evaluation of Multivariate Long Time Series Forecasting Models](http://arxiv.org/abs/2510.04900v1)** | 2025-10-06 | <details><summary>Numbe...</summary><p>Number of pages: 13 Number of figures: 16 Number of Tables: 1 Submitted to: IEEE Transactions on Signal Processing</p></details> |
-| **[Fast Emulation, Modular Calibration, and Active Learning for Simulators with Functional Response](http://arxiv.org/abs/2405.16298v2)** | 2025-10-06 |  |
-| **[ViTs: Teaching Machines to See Time Series Anomalies Like Human Experts](http://arxiv.org/abs/2510.04710v1)** | 2025-10-06 | 13 pages |
-| **[Noise or Signal? Deconstructing Contradictions and An Adaptive Remedy for Reversible Normalization in Time Series Forecasting](http://arxiv.org/abs/2510.04667v1)** | 2025-10-06 | 9pages, 6 figures |
-| **[Forecasting-Based Biomedical Time-series Data Synthesis for Open Data and Robust AI](http://arxiv.org/abs/2510.04622v1)** | 2025-10-06 | Under Review |
-| **[The Limits of Inference in Complex Systems: When Stochastic Models Become Indistinguishable](http://arxiv.org/abs/2509.24977v2)** | 2025-10-06 |  |
-| **[Relevance-Aware Thresholding in Online Conformal Prediction for Time Series](http://arxiv.org/abs/2510.02809v2)** | 2025-10-06 | <details><summary>Accep...</summary><p>Accepted for The 28th European Conference on Artificial Intelligence 2025, Workshop HC@AIxIA+HYDRA 2025</p></details> |
+| **[Tensor time series change-point detection in cryptocurrency network data](http://arxiv.org/abs/2510.06211v1)** | 2025-10-07 |  |
+| **[StarEmbed: Benchmarking Time Series Foundation Models on Astronomical Observations of Variable Stars](http://arxiv.org/abs/2510.06200v1)** | 2025-10-07 |  |
+| **[A GNAR-Based Framework for Spectral Estimation of Network Time Series: Application to Global Bank Network Connectedness](http://arxiv.org/abs/2510.06157v1)** | 2025-10-07 |  |
+| **[FARS: Factor Augmented Regression Scenarios in R](http://arxiv.org/abs/2507.10679v3)** | 2025-10-07 |  |
+| **[Learning Mixtures of Linear Dynamical Systems (MoLDS) via Hybrid Tensor-EM Method](http://arxiv.org/abs/2510.06091v1)** | 2025-10-07 | 20 pages, 7 figures |
+| **[TelecomTS: A Multi-Modal Observability Dataset for Time Series and Language Analysis](http://arxiv.org/abs/2510.06063v1)** | 2025-10-07 |  |
+| **[A Generative Approach to Credit Prediction with Learnable Prompts for Multi-scale Temporal Representation Learning](http://arxiv.org/abs/2404.13004v5)** | 2025-10-07 |  |
+| **[Copula-Based Clustering of Financial Time Series via Evidence Accumulation](http://arxiv.org/abs/2510.05960v1)** | 2025-10-07 |  |
+| **[Structured Sparse Transition Matrices to Enable State Tracking in State-Space Models](http://arxiv.org/abs/2509.22284v2)** | 2025-10-07 | <details><summary>10 pa...</summary><p>10 pages, NeurIPS 2025 Spotlight</p></details> |
+| **[Training-Free Time Series Classification via In-Context Reasoning with LLM Agents](http://arxiv.org/abs/2510.05950v1)** | 2025-10-07 | <details><summary>8 pag...</summary><p>8 pages main content, 12 pages total including appendix, 1 figure</p></details> |
+| **[How Foundational are Foundation Models for Time Series Forecasting?](http://arxiv.org/abs/2510.00742v3)** | 2025-10-07 | <details><summary>Typo ...</summary><p>Typo rectified in this v3 version. Accepted at NeurIPS 2025 Workshop on Recent Advances in Time Series Foundation Models (BERT2S)</p></details> |
+| **[Early Multimodal Prediction of Cross-Lingual Meme Virality on Reddit: A Time-Window Analysis](http://arxiv.org/abs/2510.05761v1)** | 2025-10-07 | <details><summary>Prepr...</summary><p>Preprint work in progress. Main body: 9 pages. Total: 15 pages including references and appendix. 16 figures and 12 tables</p></details> |
+| **[DiffSDA: Unsupervised Diffusion Sequential Disentanglement Across Modalities](http://arxiv.org/abs/2510.05717v1)** | 2025-10-07 |  |
+| **[A Note on "Quasi-Maximum-Likelihood Estimation in Conditionally Heteroscedastic Time Series: A Stochastic Recurrence Equations Approach"](http://arxiv.org/abs/2510.05716v1)** | 2025-10-07 |  |
+| **[Assessing (im)balance in signed brain networks](http://arxiv.org/abs/2508.00542v2)** | 2025-10-07 | <details><summary>41 pa...</summary><p>41 pages, 17 figures, 1 table</p></details> |
 
