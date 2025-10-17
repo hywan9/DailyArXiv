@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 17, 2025
+title: Latest 15 Papers - October 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ke1ewang/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,19 +7,19 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Tackling Time-Series Forecasting Generalization via Mitigating Concept Drift](http://arxiv.org/abs/2510.14814v1)** | 2025-10-16 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, 4 tables</p></details> |
+| **[Accurate Bayesian inference for tail risk extrapolation in time series](http://arxiv.org/abs/2510.14637v1)** | 2025-10-16 |  |
+| **[Proprioceptive Image: An Image Representation of Proprioceptive Data from Quadruped Robots for Contact Estimation Learning](http://arxiv.org/abs/2510.14612v1)** | 2025-10-16 |  |
+| **[Enhancing Time Series Forecasting through Selective Representation Spaces: A Patch Perspective](http://arxiv.org/abs/2510.14510v1)** | 2025-10-16 |  |
+| **[Grazing Detection using Deep Learning and Sentinel-2 Time Series Data](http://arxiv.org/abs/2510.14493v1)** | 2025-10-16 | <details><summary>Code ...</summary><p>Code and models: https://github.com/aleksispi/pib-ml-grazing</p></details> |
+| **[FEWT: Improving Humanoid Robot Perception with Frequency-Enhanced Wavelet-based Transformers](http://arxiv.org/abs/2509.11109v3)** | 2025-10-16 |  |
+| **[Enhancing Time-Series Anomaly Detection by Integrating Spectral-Residual Bottom-Up Attention with Reservoir Computing](http://arxiv.org/abs/2510.14287v1)** | 2025-10-16 |  |
+| **[Stable Prediction of Adverse Events in Medical Time-Series Data](http://arxiv.org/abs/2510.14286v1)** | 2025-10-16 | 18 pages, 3 Figures |
+| **[Generalist vs Specialist Time Series Foundation Models: Investigating Potential Emergent Behaviors in Assessing Human Health Using PPG Signals](http://arxiv.org/abs/2510.14254v1)** | 2025-10-16 |  |
+| **[Neural Networks for Bayesian Inverse Problems Governed by a Nonlinear ODE](http://arxiv.org/abs/2510.14197v1)** | 2025-10-16 | <details><summary>46 pa...</summary><p>46 pages, 16 figures, 25 tables</p></details> |
+| **[On Evaluating Loss Functions for Stock Ranking: An Empirical Analysis With Transformer Model](http://arxiv.org/abs/2510.14156v1)** | 2025-10-15 | <details><summary>This ...</summary><p>This paper has been submitted to CIKM 2025</p></details> |
+| **[TimeRecipe: A Time-Series Forecasting Recipe via Benchmarking Module Level Effectiveness](http://arxiv.org/abs/2506.06482v2)** | 2025-10-15 | <details><summary>47 pa...</summary><p>47 pages, 1 figure, 30 tables</p></details> |
+| **[TENDE: Transfer Entropy Neural Diffusion Estimation](http://arxiv.org/abs/2510.14096v1)** | 2025-10-15 |  |
+| **[Cyber-Resilient System Identification for Power Grid through Bayesian Integration](http://arxiv.org/abs/2510.14043v1)** | 2025-10-15 |  |
 | **[Multifractality and its sources in the digital currency market](http://arxiv.org/abs/2510.13785v1)** | 2025-10-15 |  |
-| **[Time Series Foundation Models: Benchmarking Challenges and Requirements](http://arxiv.org/abs/2510.13654v1)** | 2025-10-15 |  |
-| **[Multivariate Time Series Forecasting with Gate-Based Quantum Reservoir Computing on NISQ Hardware](http://arxiv.org/abs/2510.13634v1)** | 2025-10-15 |  |
-| **[Hierarchical Evaluation Function: A Multi-Metric Approach for Optimizing Demand Forecasting Models](http://arxiv.org/abs/2508.13057v5)** | 2025-10-15 | <details><summary>31 pa...</summary><p>31 pages, 15 figures, 25 tables. Submitted as a preprint. The manuscript introduces the Hierarchical Evaluation Function, a multi-metric framework for optimizing demand forecasting models under high uncertainty. Includes extensive experimental validation using real-world datasets and a comparative analysis against classical and modern methods</p></details> |
-| **[Privacy-Preserving Bathroom Monitoring for Elderly Emergencies Using PIR and LiDAR Sensors](http://arxiv.org/abs/2505.18242v2)** | 2025-10-15 | <details><summary>5 pag...</summary><p>5 pages (v2 has corrected email address for first author)</p></details> |
-| **[Pathwise guessing in categorical time series with unbounded alphabets](http://arxiv.org/abs/2501.06547v3)** | 2025-10-15 | <details><summary>25 pa...</summary><p>25 pages, re-submitted. This is a revised version prompted by some questions from a referee. This substantially improved version supersedes the previous one</p></details> |
-| **[Time-IMM: A Dataset and Benchmark for Irregular Multimodal Multivariate Time Series](http://arxiv.org/abs/2506.10412v4)** | 2025-10-15 | <details><summary>This ...</summary><p>This paper has been accepted by the NeurIPS 2025 Datasets and Benchmarks Track</p></details> |
-| **[Fidel-TS: A High-Fidelity Benchmark for Multimodal Time Series Forecasting](http://arxiv.org/abs/2509.24789v2)** | 2025-10-15 | <details><summary>provi...</summary><p>provide the url of our dataset and code</p></details> |
-| **[Deep learning based doubly robust test for Granger causality](http://arxiv.org/abs/2509.15798v2)** | 2025-10-15 |  |
-| **[Probabilistic QoS Metric Forecasting in Delay-Tolerant Networks Using Conditional Diffusion Models on Latent Dynamics](http://arxiv.org/abs/2504.08821v3)** | 2025-10-15 |  |
-| **[Toward Reasoning-Centric Time-Series Analysis](http://arxiv.org/abs/2510.13029v1)** | 2025-10-14 |  |
-| **[Simulation-Based Pretraining and Domain Adaptation for Astronomical Time Series with Minimal Labeled Data](http://arxiv.org/abs/2510.12958v1)** | 2025-10-14 |  |
-| **[CoRA: Covariate-Aware Adaptation of Time Series Foundation Models](http://arxiv.org/abs/2510.12681v1)** | 2025-10-14 |  |
-| **[TerraCodec: Compressing Earth Observations](http://arxiv.org/abs/2510.12670v1)** | 2025-10-14 |  |
-| **[CrossAD: Time Series Anomaly Detection with Cross-scale Associations and Cross-window Modeling](http://arxiv.org/abs/2510.12489v1)** | 2025-10-14 | <details><summary>Accep...</summary><p>Accepted by the thirty-ninth annual conference on Neural Information Processing Systems</p></details> |
 
