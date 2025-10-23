@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 23, 2025
+title: Latest 15 Papers - October 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ke1ewang/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,19 +7,19 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[In-Context Learning of Stochastic Differential Equations with Foundation Inference Models](http://arxiv.org/abs/2502.19049v2)** | 2025-10-21 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025. The previous version appeared under the title "Foundation Inference Models for Stochastic Differential Equations: A Transformer-based Approach for Zero-shot Function Estimation."</p></details> |
-| **[Can Large Language Models Adequately Perform Symbolic Reasoning Over Time Series?](http://arxiv.org/abs/2508.03963v3)** | 2025-10-21 | version2 |
-| **[CPSLint: A Domain-Specific Language Providing Data Validation and Sanitisation for Industrial Cyber-Physical Systems](http://arxiv.org/abs/2510.18651v1)** | 2025-10-21 |  |
-| **[A new implementation of Network GARCH Model](http://arxiv.org/abs/2510.18599v1)** | 2025-10-21 | <details><summary>Codes...</summary><p>Codes for this paper are accessible at https://github.com/PZhou114/GNGARCH_coding, detailed instructions are in the repository's README. For this paper, AI tools like GPT-4o and Grammarly were used to copy-edit the introduction and conclusion text, also improving the quality of written English</p></details> |
-| **[LENS: Large Pre-trained Transformer for Exploring Financial Time Series Regularities](http://arxiv.org/abs/2408.10111v3)** | 2025-10-21 |  |
-| **[MEET-Sepsis: Multi-Endogenous-View Enhanced Time-Series Representation Learning for Early Sepsis Prediction](http://arxiv.org/abs/2510.15985v2)** | 2025-10-21 | <details><summary>Accep...</summary><p>Accepted to PRICAI 2025</p></details> |
-| **[Towards Identifiability of Hierarchical Temporal Causal Representation Learning](http://arxiv.org/abs/2510.18310v1)** | 2025-10-21 |  |
-| **[Online Time Series Forecasting with Theoretical Guarantees](http://arxiv.org/abs/2510.18281v1)** | 2025-10-21 |  |
-| **[Scalable Bayesian inference for time series via divide-and-conquer](http://arxiv.org/abs/2106.11043v4)** | 2025-10-21 |  |
-| **[ProtoTS: Learning Hierarchical Prototypes for Explainable Time Series Forecasting](http://arxiv.org/abs/2509.23159v2)** | 2025-10-21 | Under submission |
-| **[ViFusionTST: Deep Fusion of Time-Series Image Representations from Load Signals for Early Bed-Exit Prediction](http://arxiv.org/abs/2506.22498v4)** | 2025-10-21 |  |
-| **[Batch Distillation Data for Developing Machine Learning Anomaly Detection Methods](http://arxiv.org/abs/2510.18075v1)** | 2025-10-20 |  |
-| **[Choosing an analytic approach: Key study design considerations in state policy evaluation](http://arxiv.org/abs/2504.03609v2)** | 2025-10-20 |  |
-| **[Benchmarking Probabilistic Time Series Forecasting Models on Neural Activity](http://arxiv.org/abs/2510.18037v1)** | 2025-10-20 | <details><summary>Accep...</summary><p>Accepted at the 39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: Data on the Brain & Mind</p></details> |
-| **[Transition of $α$-mixing in Random Iterations with Applications in Queuing Theory](http://arxiv.org/abs/2410.05056v4)** | 2025-10-20 | 39 pages, 1 figure |
+| **[QoQ-Med: Building Multimodal Clinical Foundation Models with Domain-Aware GRPO Training](http://arxiv.org/abs/2506.00711v2)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted as Oral at NeurIPS 2025. Revision after camera ready</p></details> |
+| **[Phase-driven Domain Generalizable Learning for Nonstationary Time Series](http://arxiv.org/abs/2402.05960v2)** | 2025-10-22 | TMLR 2025 |
+| **[Enabling Granular Subgroup Level Model Evaluations by Generating Synthetic Medical Time Series](http://arxiv.org/abs/2510.19728v1)** | 2025-10-22 |  |
+| **[SEMPO: Lightweight Foundation Models for Time Series Forecasting](http://arxiv.org/abs/2510.19710v1)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
+| **[A Climate-Aware Deep Learning Framework for Generalizable Epidemic Forecasting](http://arxiv.org/abs/2510.19611v1)** | 2025-10-22 |  |
+| **[From Prototypes to Sparse ECG Explanations: SHAP-Driven Counterfactuals for Multivariate Time-Series Multi-class Classification](http://arxiv.org/abs/2510.19514v1)** | 2025-10-22 |  |
+| **[TimeWak: Temporal Chained-Hashing Watermark for Time Series Data](http://arxiv.org/abs/2506.06407v3)** | 2025-10-22 |  |
+| **[Causal Feedback Discovery using Convergence Cross Mapping on Sea Ice Data](http://arxiv.org/abs/2505.09001v5)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted in ACM Sigspatial Conference, PolDS Workshop</p></details> |
+| **[Explaining Time Series Classifiers with PHAR: Rule Extraction and Fusion from Post-hoc Attributions](http://arxiv.org/abs/2508.01687v3)** | 2025-10-22 |  |
+| **[LMFD: Latent Monotonic Feature Discovery](http://arxiv.org/abs/2510.19383v1)** | 2025-10-22 | <details><summary>This ...</summary><p>This preprint has not undergone peer review or any post-submission improvements or corrections. The Version of Record of this contribution is published in Machine Learning and Principles and Practice of Knowledge Discovery in Databases, and is available online at https://doi.org/10.1007/978-3-031-74633-8_2</p></details> |
+| **[Foundation Model Forecasts: Form and Function](http://arxiv.org/abs/2510.19345v1)** | 2025-10-22 | 28 pages, 3 figures |
+| **[Topology of Currencies: Persistent Homology for FX Co-movements: A Comparative Clustering Study](http://arxiv.org/abs/2510.19306v1)** | 2025-10-22 | <details><summary>26 pa...</summary><p>26 pages, 17 figures, the results were presented at the 5th MORSE Conference, Maastricht University (October 2025)</p></details> |
+| **[Understanding the Implicit Biases of Design Choices for Time Series Foundation Models](http://arxiv.org/abs/2510.19236v1)** | 2025-10-22 |  |
+| **[No Intelligence Without Statistics: The Invisible Backbone of Artificial Intelligence](http://arxiv.org/abs/2510.19212v1)** | 2025-10-22 | 37 pages, 6 figures |
+| **[Benchmarking Probabilistic Time Series Forecasting Models on Neural Activity](http://arxiv.org/abs/2510.18037v2)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted at the 39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: Data on the Brain & Mind</p></details> |
 
