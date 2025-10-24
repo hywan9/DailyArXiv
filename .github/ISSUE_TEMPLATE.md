@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 24, 2025
+title: Latest 15 Papers - October 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ke1ewang/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,19 +7,19 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[QoQ-Med: Building Multimodal Clinical Foundation Models with Domain-Aware GRPO Training](http://arxiv.org/abs/2506.00711v2)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted as Oral at NeurIPS 2025. Revision after camera ready</p></details> |
-| **[Phase-driven Domain Generalizable Learning for Nonstationary Time Series](http://arxiv.org/abs/2402.05960v2)** | 2025-10-22 | TMLR 2025 |
-| **[Enabling Granular Subgroup Level Model Evaluations by Generating Synthetic Medical Time Series](http://arxiv.org/abs/2510.19728v1)** | 2025-10-22 |  |
-| **[SEMPO: Lightweight Foundation Models for Time Series Forecasting](http://arxiv.org/abs/2510.19710v1)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
-| **[A Climate-Aware Deep Learning Framework for Generalizable Epidemic Forecasting](http://arxiv.org/abs/2510.19611v1)** | 2025-10-22 |  |
-| **[From Prototypes to Sparse ECG Explanations: SHAP-Driven Counterfactuals for Multivariate Time-Series Multi-class Classification](http://arxiv.org/abs/2510.19514v1)** | 2025-10-22 |  |
-| **[TimeWak: Temporal Chained-Hashing Watermark for Time Series Data](http://arxiv.org/abs/2506.06407v3)** | 2025-10-22 |  |
-| **[Causal Feedback Discovery using Convergence Cross Mapping on Sea Ice Data](http://arxiv.org/abs/2505.09001v5)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted in ACM Sigspatial Conference, PolDS Workshop</p></details> |
-| **[Explaining Time Series Classifiers with PHAR: Rule Extraction and Fusion from Post-hoc Attributions](http://arxiv.org/abs/2508.01687v3)** | 2025-10-22 |  |
-| **[LMFD: Latent Monotonic Feature Discovery](http://arxiv.org/abs/2510.19383v1)** | 2025-10-22 | <details><summary>This ...</summary><p>This preprint has not undergone peer review or any post-submission improvements or corrections. The Version of Record of this contribution is published in Machine Learning and Principles and Practice of Knowledge Discovery in Databases, and is available online at https://doi.org/10.1007/978-3-031-74633-8_2</p></details> |
-| **[Foundation Model Forecasts: Form and Function](http://arxiv.org/abs/2510.19345v1)** | 2025-10-22 | 28 pages, 3 figures |
-| **[Topology of Currencies: Persistent Homology for FX Co-movements: A Comparative Clustering Study](http://arxiv.org/abs/2510.19306v1)** | 2025-10-22 | <details><summary>26 pa...</summary><p>26 pages, 17 figures, the results were presented at the 5th MORSE Conference, Maastricht University (October 2025)</p></details> |
-| **[Understanding the Implicit Biases of Design Choices for Time Series Foundation Models](http://arxiv.org/abs/2510.19236v1)** | 2025-10-22 |  |
-| **[No Intelligence Without Statistics: The Invisible Backbone of Artificial Intelligence](http://arxiv.org/abs/2510.19212v1)** | 2025-10-22 | 37 pages, 6 figures |
-| **[Benchmarking Probabilistic Time Series Forecasting Models on Neural Activity](http://arxiv.org/abs/2510.18037v2)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted at the 39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: Data on the Brain & Mind</p></details> |
+| **[Unsupervised Anomaly Prediction with N-BEATS and Graph Neural Network in Multi-variate Semiconductor Process Time Series](http://arxiv.org/abs/2510.20718v1)** | 2025-10-23 | 17 pages, 27 figures |
+| **[Fusing Narrative Semantics for Financial Volatility Forecasting](http://arxiv.org/abs/2510.20699v1)** | 2025-10-23 | <details><summary>The 6...</summary><p>The 6th ACM International Conference on AI in Finance (ICAIF 2025)</p></details> |
+| **[Flow based approach for Dynamic Temporal Causal models with non-Gaussian or Heteroscedastic Noises](http://arxiv.org/abs/2506.17065v2)** | 2025-10-23 |  |
+| **[xTime: Extreme Event Prediction with Hierarchical Knowledge Distillation and Expert Fusion](http://arxiv.org/abs/2510.20651v1)** | 2025-10-23 |  |
+| **[Towards the Formalization of a Trustworthy AI for Mining Interpretable Models explOiting Sophisticated Algorithms](http://arxiv.org/abs/2510.20621v1)** | 2025-10-23 |  |
+| **[Optimizing Time Series Forecasting Architectures: A Hierarchical Neural Architecture Search Approach](http://arxiv.org/abs/2406.05088v2)** | 2025-10-23 |  |
+| **[Time-series Random Process Complexity Ranking Using a Bound on Conditional Differential Entropy](http://arxiv.org/abs/2510.20551v1)** | 2025-10-23 | 7 pages, 4 figures |
+| **[Log Neural Controlled Differential Equations: The Lie Brackets Make a Difference](http://arxiv.org/abs/2402.18512v4)** | 2025-10-23 | 23 pages, 5 figures |
+| **[Morpheus: Lightweight RTT Prediction for Performance-Aware Load Balancing](http://arxiv.org/abs/2510.20506v1)** | 2025-10-23 |  |
+| **[Adaptive PCA-Based Outlier Detection for Multi-Feature Time Series in Space Missions](http://arxiv.org/abs/2504.15846v2)** | 2025-10-23 | <details><summary>Accep...</summary><p>Accepted to ICCS 2025</p></details> |
+| **[MIRA: Medical Time Series Foundation Model for Real-World Health Data](http://arxiv.org/abs/2506.07584v5)** | 2025-10-23 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Main Conference</p></details> |
+| **[Hierarchical Time Series Forecasting with Robust Reconciliation](http://arxiv.org/abs/2510.20383v1)** | 2025-10-23 |  |
+| **[InvDec: Inverted Decoder for Multivariate Time Series Forecasting with Separated Temporal and Variate Modeling](http://arxiv.org/abs/2510.20302v1)** | 2025-10-23 | 23pages, 3 figures |
+| **[Conformal Prediction for Time-series Forecasting with Change Points](http://arxiv.org/abs/2509.02844v3)** | 2025-10-23 |  |
+| **[SynTSBench: Rethinking Temporal Pattern Learning in Deep Learning Models for Time Series](http://arxiv.org/abs/2510.20273v1)** | 2025-10-23 | NeurIPS 2025 |
 
