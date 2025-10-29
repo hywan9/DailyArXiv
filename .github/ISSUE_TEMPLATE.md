@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - October 29, 2025
+title: Latest Papers - October 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/hywan9/DailyArXiv) page for a better reading experience and more papers.**
@@ -16,4 +16,10 @@ labels: documentation
 | **[MAP4TS: A Multi-Aspect Prompting Framework for Time-Series Forecasting with Large Language Models](http://arxiv.org/abs/2510.23090v1)** | 2025-10-27 |  |
 | **[Not All Data are Good Labels: On the Self-supervised Labeling for Time Series Forecasting](http://arxiv.org/abs/2502.14704v3)** | 2025-10-27 | <details><summary>Accep...</summary><p>Accepted by NeurIPS'25 (spotlight)</p></details> |
 | **[DBLoss: Decomposition-based Loss Function for Time Series Forecasting](http://arxiv.org/abs/2510.23672v1)** | 2025-10-27 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
+| **[A Theory of the Mechanics of Information: Generalization Through Measurement of Uncertainty (Learning is Measuring)](http://arxiv.org/abs/2510.22809v1)** | 2025-10-26 | 117 pages |
+| **[Monitoring State Transitions in Markovian Systems with Sampling Cost](http://arxiv.org/abs/2510.22327v1)** | 2025-10-25 | 6 pages, 4 figures |
+| **[A Lightweight Gradient-based Causal Discovery Framework with Applications to Complex Industrial Processes](http://arxiv.org/abs/2507.11178v2)** | 2025-10-25 | <details><summary>9 pag...</summary><p>9 pages,3 figures, conference</p></details> |
+| **[Dopamine-driven synaptic credit assignment in neural networks](http://arxiv.org/abs/2510.22178v1)** | 2025-10-25 |  |
+| **[Quantum Temporal Fusion Transformer](http://arxiv.org/abs/2508.04048v2)** | 2025-10-24 |  |
+| **[Benchmarking Catastrophic Forgetting Mitigation Methods in Federated Time Series Forecasting](http://arxiv.org/abs/2510.21491v1)** | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted for presentation at the FLTA 2025 Conference on Federated Learning. This version corresponds to the camera-ready author manuscript</p></details> |
 
