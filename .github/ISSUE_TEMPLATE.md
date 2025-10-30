@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - October 30, 2025
+title: Latest Papers - October 31, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/hywan9/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting](http://arxiv.org/abs/2510.25502v1)** | 2025-10-29 | <details><summary>30 pa...</summary><p>30 pages, 18 figures, 13 tables</p></details> |
+| **[Selective Learning for Deep Time Series Forecasting](http://arxiv.org/abs/2510.25207v1)** | 2025-10-29 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
 | **[DistDF: Time-Series Forecasting Needs Joint-Distribution Wasserstein Alignment](http://arxiv.org/abs/2510.24574v1)** | 2025-10-28 |  |
 | **[ARIMA_PLUS: Large-scale, Accurate, Automatic and Interpretable In-Database Time Series Forecasting and Anomaly Detection in Google BigQuery](http://arxiv.org/abs/2510.24452v1)** | 2025-10-28 |  |
 | **[OneCast: Structured Decomposition and Modular Generation for Cross-Domain Time Series Forecasting](http://arxiv.org/abs/2510.24028v1)** | 2025-10-28 |  |
@@ -20,6 +22,4 @@ labels: documentation
 | **[Monitoring State Transitions in Markovian Systems with Sampling Cost](http://arxiv.org/abs/2510.22327v1)** | 2025-10-25 | 6 pages, 4 figures |
 | **[A Lightweight Gradient-based Causal Discovery Framework with Applications to Complex Industrial Processes](http://arxiv.org/abs/2507.11178v2)** | 2025-10-25 | <details><summary>9 pag...</summary><p>9 pages,3 figures, conference</p></details> |
 | **[Dopamine-driven synaptic credit assignment in neural networks](http://arxiv.org/abs/2510.22178v1)** | 2025-10-25 |  |
-| **[Quantum Temporal Fusion Transformer](http://arxiv.org/abs/2508.04048v2)** | 2025-10-24 |  |
-| **[Benchmarking Catastrophic Forgetting Mitigation Methods in Federated Time Series Forecasting](http://arxiv.org/abs/2510.21491v1)** | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted for presentation at the FLTA 2025 Conference on Federated Learning. This version corresponds to the camera-ready author manuscript</p></details> |
 
