@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - October 31, 2025
+title: Latest Papers - November 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/hywan9/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards Explainable and Reliable AI in Finance](http://arxiv.org/abs/2510.26353v1)** | 2025-10-30 |  |
 | **[TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting](http://arxiv.org/abs/2510.25502v1)** | 2025-10-29 | <details><summary>30 pa...</summary><p>30 pages, 18 figures, 13 tables</p></details> |
 | **[Selective Learning for Deep Time Series Forecasting](http://arxiv.org/abs/2510.25207v1)** | 2025-10-29 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
 | **[DistDF: Time-Series Forecasting Needs Joint-Distribution Wasserstein Alignment](http://arxiv.org/abs/2510.24574v1)** | 2025-10-28 |  |
@@ -21,5 +22,4 @@ labels: documentation
 | **[A Theory of the Mechanics of Information: Generalization Through Measurement of Uncertainty (Learning is Measuring)](http://arxiv.org/abs/2510.22809v1)** | 2025-10-26 | 117 pages |
 | **[Monitoring State Transitions in Markovian Systems with Sampling Cost](http://arxiv.org/abs/2510.22327v1)** | 2025-10-25 | 6 pages, 4 figures |
 | **[A Lightweight Gradient-based Causal Discovery Framework with Applications to Complex Industrial Processes](http://arxiv.org/abs/2507.11178v2)** | 2025-10-25 | <details><summary>9 pag...</summary><p>9 pages,3 figures, conference</p></details> |
-| **[Dopamine-driven synaptic credit assignment in neural networks](http://arxiv.org/abs/2510.22178v1)** | 2025-10-25 |  |
 
