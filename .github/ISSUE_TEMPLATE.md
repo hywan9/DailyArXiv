@@ -1,5 +1,5 @@
 ---
-title: Latest Papers - November 01, 2025
+title: Latest Papers - November 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/hywan9/DailyArXiv) page for a better reading experience and more papers.**
